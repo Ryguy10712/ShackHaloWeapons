@@ -1,0 +1,1188 @@
+﻿Log file open, 12/16/20 18:30:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283370
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.066s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-02.30.24:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.17-02.30.24:774][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-02.30.24:775][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2020.12.17-02.30.24:775][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-02.30.24:779][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.17-02.30.24:779][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.12.17-02.30.24:779][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.12.17-02.30.24:780][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.17-02.30.24:780][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.12.17-02.30.24:780][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.12.17-02.30.24:780][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:780][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.17-02.30.24:780][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.17-02.30.24:780][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.17-02.30.24:780][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.17-02.30.24:780][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.17-02.30.24:788][  0]LogHAL: Display: Platform has ~ 16 GB [17106694144 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.17-02.30.24:788][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.12.17-02.30.24:788][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.17-02.30.24:789][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.17-02.30.24:789][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.17-02.30.24:789][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.17-02.30.24:789][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.17-02.30.24:790][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-02.30.24:790][  0]LogInit: Computer: DESKTOP-Q357MKB
+[2020.12.17-02.30.24:790][  0]LogInit: User: Alec
+[2020.12.17-02.30.24:790][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.12.17-02.30.24:790][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.17-02.30.24:790][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.17-02.30.24:790][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.17-02.30.24:790][  0]LogMemory: Process Physical Memory: 103.82 MB used, 103.82 MB peak
+[2020.12.17-02.30.24:790][  0]LogMemory: Process Virtual Memory: 89.79 MB used, 89.79 MB peak
+[2020.12.17-02.30.24:790][  0]LogMemory: Physical Memory: 6153.94 MB used,  10160.27 MB free, 16314.21 MB total
+[2020.12.17-02.30.24:790][  0]LogMemory: Virtual Memory: 4638.36 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.12.17-02.30.24:828][  0]LogInit: Using OS detected language (en-US).
+[2020.12.17-02.30.24:828][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.17-02.30.24:829][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.17-02.30.25:094][  0]LogStreaming: Display: Took  0.265s to InitEngineTextLocalization.
+[2020.12.17-02.30.25:094][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.17-02.30.25:113][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.17-02.30.25:113][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.17-02.30.31:314][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.12.17-02.30.31:314][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.17-02.30.31:362][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2020.12.17-02.30.31:362][  0]LogD3D11RHI:       8010/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.17-02.30.31:364][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.17-02.30.31:364][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.17-02.30.31:364][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.17-02.30.31:368][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.17-02.30.31:368][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.17-02.30.31:368][  0]LogWindows: EnumDisplayDevices:
+[2020.12.17-02.30.31:368][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:1)
+[2020.12.17-02.30.31:368][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2020.12.17-02.30.31:369][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.12.17-02.30.31:369][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.12.17-02.30.31:369][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.17-02.30.31:369][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2020.12.17-02.30.31:369][  0]LogD3D11RHI:   Driver Version: 456.55 (internal:27.21.14.5655, unified:456.55)
+[2020.12.17-02.30.31:369][  0]LogD3D11RHI:      Driver Date: 9-24-2020
+[2020.12.17-02.30.31:369][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.12.17-02.30.31:399][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.17-02.30.31:417][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.17-02.30.31:418][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2020.12.17-02.30.31:631][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.12.17-02.30.31:640][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.12.17-02.30.31:650][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.12.17-02.30.31:659][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.12.17-02.30.31:669][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.12.17-02.30.31:679][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.12.17-02.30.31:688][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.12.17-02.30.31:698][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.12.17-02.30.31:702][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-02.30.31:757][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.12.17-02.30.31:810][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.12.17-02.30.31:810][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.12.17-02.30.31:828][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.12.17-02.30.31:828][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.12.17-02.30.31:837][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.12.17-02.30.31:847][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.12.17-02.30.31:856][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.12.17-02.30.31:866][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.12.17-02.30.31:900][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.12.17-02.30.31:900][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.12.17-02.30.31:900][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.17-02.30.31:934][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Intermediate/Shaders/WorkingDirectory/19200/).
+[2020.12.17-02.30.31:934][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alec/AppData/Local/Temp/UnrealShaderWorkingDir/18166EFB41C285E5A3324DBAD5A740B1/'.
+[2020.12.17-02.30.31:935][  0]LogXGEController: Cleaning working directory: C:/Users/Alec/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.17-02.30.31:935][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.17-02.30.31:935][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.17-02.30.31:935][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.17-02.30.32:327][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.17-02.30.32:364][  0]LogDerivedDataCache: Loaded boot cache 0.04s 74MB C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.12.17-02.30.32:365][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.12.17-02.30.32:365][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.17-02.30.32:365][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.17-02.30.32:365][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.17-02.30.32:365][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.17-02.30.32:376][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.17-02.30.32:376][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.17-02.30.32:376][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.17-02.30.32:388][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.17-02.30.32:388][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.17-02.30.32:388][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.17-02.30.32:404][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.17-02.30.32:405][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.17-02.30.32:406][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.17-02.30.32:480][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2020.12.17-02.30.32:700][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.17-02.30.32:806][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.12.17-02.30.32:809][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.12.17-02.30.32:809][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.17-02.30.32:809][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.17-02.30.32:809][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.12.17-02.30.32:822][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2020.12.17-02.30.33:215][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.075150 seconds
+[2020.12.17-02.30.33:219][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.12.17-02.30.33:219][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.12.17-02.30.33:219][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.17-02.30.33:777][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2020.12.17-02.30.33:777][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:777][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:802][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2020.12.17-02.30.33:802][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:802][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:805][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2020.12.17-02.30.33:805][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:805][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:807][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2020.12.17-02.30.33:807][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:807][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:810][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2020.12.17-02.30.33:810][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:810][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:812][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2020.12.17-02.30.33:813][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:813][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:830][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2020.12.17-02.30.33:830][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:830][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:833][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2020.12.17-02.30.33:833][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:833][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:835][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2020.12.17-02.30.33:836][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.33:836][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-02.30.33:875][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.17-02.30.33:888][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.17-02.30.34:453][  0]LogSteamAudio: FSteamAudioModule Startup
+[2020.12.17-02.30.34:453][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2020.12.17-02.30.34:455][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2020.12.17-02.30.34:455][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2020.12.17-02.30.34:456][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2020.12.17-02.30.34:456][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2020.12.17-02.30.34:457][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2020.12.17-02.30.34:482][  0]SourceControl: Source control is disabled
+[2020.12.17-02.30.34:482][  0]SourceControl: Source control is disabled
+[2020.12.17-02.30.34:483][  0]SourceControl: Source control is disabled
+[2020.12.17-02.30.34:484][  0]SourceControl: Source control is disabled
+[2020.12.17-02.30.34:629][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.17-02.30.34:703][  0]LogOcInput: OculusInput pre-init called
+[2020.12.17-02.30.34:846][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.12.17-02.30.34:846][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.12.17-02.30.34:846][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.12.17-02.30.34:846][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.12.17-02.30.34:846][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.12.17-02.30.34:846][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2020.12.17-02.30.34:847][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.12.17-02.30.34:847][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.12.17-02.30.34:847][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.12.17-02.30.34:847][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.12.17-02.30.34:847][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.12.17-02.30.34:848][  0]LogEngine: Initializing Engine...
+[2020.12.17-02.30.34:904][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.12.17-02.30.34:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.12.17-02.30.34:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.12.17-02.30.34:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.12.17-02.30.34:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.12.17-02.30.35:078][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.17-02.30.35:084][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.17-02.30.35:113][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.17-02.30.35:140][  0]LogInit: FAudioDevice initialized.
+[2020.12.17-02.30.35:140][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.17-02.30.35:210][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.12.17-02.30.35:219][  0]LogInit: Texture streaming: Enabled
+[2020.12.17-02.30.35:228][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.17-02.30.35:236][  0]LogInit: Transaction tracking system initialized
+[2020.12.17-02.30.35:248][  0]BlueprintLog: New page: Editor Load
+[2020.12.17-02.30.35:287][  0]LocalizationService: Localization service is disabled
+[2020.12.17-02.30.35:630][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.17-02.30.35:630][  0]LogCook: Display: Mobile HDR setting 0
+[2020.12.17-02.30.35:630][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.12.17-02.30.35:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.12.17-02.30.35:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.12.17-02.30.35:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.12.17-02.30.35:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.12.17-02.30.35:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/' took 0.02s
+[2020.12.17-02.30.35:704][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2020.12.17-02.30.35:770][  0]CustomMapToolsLog: Visiting C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/Folder
+[2020.12.17-02.30.35:770][  0]CustomMapToolsLog: Visiting C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/Folder
+[2020.12.17-02.30.35:800][  0]SourceControl: Source control is disabled
+[2020.12.17-02.30.35:800][  0]Cmd: MAP LOAD FILE="C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323451034/CustomGunBase/ModExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.17-02.30.35:800][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323451034/CustomGunBase/ModExampleMap.umap'
+[2020.12.17-02.30.35:800][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.17-02.30.35:800][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2020.12.17-02.30.35:800][  0]LogFileHelpers: Loading map 'ModExampleMap' took 0.000
+[2020.12.17-02.30.35:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-02.30.35:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-02.30.35:885][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-02.30.35:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-02.30.35:894][  0]LogCollectionManager: Loaded 0 collections in 0.000640 seconds
+[2020.12.17-02.30.35:909][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Collections/' took 0.01s
+[2020.12.17-02.30.35:909][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/Developers/Alec/Collections/' took 0.00s
+[2020.12.17-02.30.35:909][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/Collections/' took 0.00s
+[2020.12.17-02.30.35:909][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.12.17-02.30.35:915][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2705 classes and 639 folders.
+[2020.12.17-02.30.35:919][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-02.30.35:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-02.30.35:962][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-02.30.35:967][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.12.17-02.30.35:978][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.17-02.30.35:979][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.17-02.30.35:982][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.17-02.30.36:035][  0]LogRenderer: Reallocating scene render targets to support 1068x584 Format 9 NumSamples 4 (Frame:1).
+[2020.12.17-02.30.36:116][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-02.30.36:116][  0]LogLoad: (Engine Initialization) Total time: 12.92 seconds
+[2020.12.17-02.30.36:116][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.17-02.30.36:232][  0]LogAssetRegistry: Asset discovery search completed in 3.7736 seconds
+[2020.12.17-02.30.36:233][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.12.17-02.30.36:233][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2020.12.17-02.30.36:234][  0]LogContentStreaming: Texture pool size now 2500 MB
+[2020.12.17-02.30.36:240][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.17-02.30.36:289][  0]LogRenderer: Reallocating scene render targets to support 1068x604 Format 9 NumSamples 4 (Frame:3).
+[2020.12.17-02.30.36:289][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.17-02.30.37:016][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.17-02.30.40:519][406]CustomMapToolsLog: Warning: Creating new item
+[2020.12.17-02.30.40:670][424]CustomMapToolsLog: OnCreateItemResult
+[2020.12.17-02.30.40:670][424]CustomMapToolsLog: Creating map folder for id 2323478315
+[2020.12.17-02.30.41:853][566]LogSlate: Window 'Pavlov Workshop' being destroyed
+[2020.12.17-02.30.41:858][566]LogSlate: Window 'Pavlov Workshop' being destroyed
+[2020.12.17-02.30.46:932][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.46:932][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset.
+[2020.12.17-02.30.46:932][151]LoadErrors: Error: /CustomMapTools/Examples/Items/Flashlight/ModItem_Flashlight : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-02.30.46:937][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.46:937][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset.
+[2020.12.17-02.30.46:938][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.46:938][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.12.17-02.30.46:938][151]LoadErrors: Error: /CustomMapTools/Examples/Items/CustomItemTableExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-02.30.46:938][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.46:938][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.12.17-02.30.46:940][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.46:940][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.12.17-02.30.46:940][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.46:940][151]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.17-02.30.46:940][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.12.17-02.30.46:940][151]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/Flashlight/ModItem_Flashlight.ModItem_Flashlight_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2020.12.17-02.30.46:979][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.46:979][151]LoadErrors: Failed to load /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.17-02.30.46:979][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.17-02.30.46:979][151]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-02.30.46:979][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.46:979][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.17-02.30.46:979][151]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2020.12.17-02.30.46:989][151]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.17-02.30.46:989][151]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.17-02.30.46:989][151]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body
+[2020.12.17-02.30.46:989][151]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.17-02.30.46:989][151]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.17-02.30.46:989][151]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo
+[2020.12.17-02.30.46:994][151]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.17-02.30.46:995][151]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.17-02.30.46:995][151]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.17-02.30.46:995][151]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.17-02.30.47:001][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:001][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.17-02.30.47:003][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:003][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.17-02.30.47:058][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:058][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.12.17-02.30.47:058][151]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/ModItem_FOB : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-02.30.47:060][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:060][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.12.17-02.30.47:067][151]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.17-02.30.47:067][151]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2020.12.17-02.30.47:067][151]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2020.12.17-02.30.47:068][151]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.17-02.30.47:068][151]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2020.12.17-02.30.47:068][151]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2020.12.17-02.30.47:730][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:730][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.12.17-02.30.47:730][151]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_HandProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.17-02.30.47:731][151]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.17-02.30.47:731][151]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-02.30.47:731][151]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by Default__BP_HandProxyExample_C
+[2020.12.17-02.30.47:732][151]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.17-02.30.47:732][151]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer BP_HandProxyExample_C /CustomMapTools/Examples/Proxies/BP_HandProxyExample.Default__BP_HandProxyExample_C because its class does not exist
+[2020.12.17-02.30.47:933][151]LogAIModule: Creating AISystem for world ModExampleMap
+[2020.12.17-02.30.48:044][151]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC2286579809/HaloAssaultRife/fire1'
+[2020.12.17-02.30.48:044][151]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC2286579809/HaloAssaultRife/fire1'
+[2020.12.17-02.30.48:044][151]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CustomMaps/UGC2286579809/HaloAssaultRife/fire1.fire1'
+[2020.12.17-02.30.48:048][151]LogMaterial: Display: Missing cached shader map for material AmmoCounter, compiling. 
+[2020.12.17-02.30.48:048][151]LogMaterial: Warning: C:\Users\Alec\Desktop\Backup\GunBase\PavlovVR-ModKit-master\Content\CustomMaps\Folder\HaloAssaultRife\Materials\AmmoCounter.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.48:048][151]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-02.30.48:060][151]LogMaterial: Display: Missing cached shader map for material Display, compiling. 
+[2020.12.17-02.30.48:061][151]LogMaterial: Warning: C:\Users\Alec\Desktop\Backup\GunBase\PavlovVR-ModKit-master\Content\CustomMaps\Folder\HaloAssaultRife\Materials\Display.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.48:061][151]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-02.30.48:073][151]LogMaterial: Display: Missing cached shader map for material Front, compiling. 
+[2020.12.17-02.30.48:073][151]LogMaterial: Warning: C:\Users\Alec\Desktop\Backup\GunBase\PavlovVR-ModKit-master\Content\CustomMaps\Folder\HaloAssaultRife\Materials\Front.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.48:073][151]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-02.30.48:084][151]LogMaterial: Display: Missing cached shader map for material Magazine, compiling. 
+[2020.12.17-02.30.48:084][151]LogMaterial: Warning: C:\Users\Alec\Desktop\Backup\GunBase\PavlovVR-ModKit-master\Content\CustomMaps\Folder\HaloAssaultRife\Materials\Magazine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.48:084][151]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-02.30.48:094][151]LogMaterial: Display: Missing cached shader map for material Rear, compiling. 
+[2020.12.17-02.30.48:095][151]LogMaterial: Warning: C:\Users\Alec\Desktop\Backup\GunBase\PavlovVR-ModKit-master\Content\CustomMaps\Folder\HaloAssaultRife\Materials\Rear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.48:095][151]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-02.30.48:106][151]LogMaterial: Display: Missing cached shader map for material Shroud, compiling. 
+[2020.12.17-02.30.48:106][151]LogMaterial: Warning: C:\Users\Alec\Desktop\Backup\GunBase\PavlovVR-ModKit-master\Content\CustomMaps\Folder\HaloAssaultRife\Materials\Shroud.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-02.30.48:106][151]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-02.30.48:123][151]LogBlueprint: Error: [Compiler HaloAssaultRife_Skeleton_AnimBlueprint] HaloAssaultRife_Skeleton_AnimBlueprint  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2020.12.17-02.30.48:124][151]LogBlueprint: Warning: [Compiler HaloAssaultRife_Skeleton_AnimBlueprint] [0024.93] Compile of HaloAssaultRife_Skeleton_AnimBlueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 2 ms] (/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint)
+[2020.12.17-02.30.48:166][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CMP_GlobalInfoTest.CMP_GlobalInfoTest_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CMP_GlobalInfoTest.PackageMetaData'
+[2020.12.17-02.30.48:167][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CMP_GlobalInfoTest.SKEL_CMP_GlobalInfoTest_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CMP_GlobalInfoTest.PackageMetaData'
+[2020.12.17-02.30.48:167][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CMP_GlobalInfoTest.SKEL_CMP_GlobalInfoTest_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CMP_GlobalInfoTest.PackageMetaData'
+[2020.12.17-02.30.48:167][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CMP_GlobalInfoTest.CMP_GlobalInfoTest_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CMP_GlobalInfoTest.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:AddLine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:Has Authority' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextArray' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:DefaultSceneRoot' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender8' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender2' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender3' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender4' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender5' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender6' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender7' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender9' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender10' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender11' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender12' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender13' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender14' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:TextRender15' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.SKEL_consoleMaster_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:Has Authority' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextArray' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:DefaultSceneRoot' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender8' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender2' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender3' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender4' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender5' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender6' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender7' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender9' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender10' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender11' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender12' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender13' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender14' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:TextRender15' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:171][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.consoleMaster_C:AddLine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/consoleMaster.PackageMetaData'
+[2020.12.17-02.30.48:175][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.ItemSpawner_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:175][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.ItemSpawner:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:175][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.ItemSpawner:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:175][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.ItemSpawner:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.ItemSpawner:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C:BndEvt__Pavlov_InteractBox_K2Node_ComponentBoundEvent_0_OnInteractBoxSignature__DelegateSignature' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C:BndEvt__Pavlov_InteractBox_K2Node_ComponentBoundEvent_1_OnInteractBoxServerSignature__DelegateSignature' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C:DefaultSceneRoot' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C:Pavlov_InteractBox' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.SKEL_ItemSpawner_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.ItemSpawner_C:DefaultSceneRoot' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.ItemSpawner_C:Pavlov_InteractBox' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:176][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.ItemSpawner_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ItemSpawner.PackageMetaData'
+[2020.12.17-02.30.48:181][151]LogBlueprint: Error: [Compiler PersistentLevel.ModExampleMap] Blueprint  ModExampleMap  has missing or NULL parent class.
+[2020.12.17-02.30.48:181][151]LogBlueprint: Warning: [Compiler PersistentLevel.ModExampleMap] [0024.99] Compile of PersistentLevel.ModExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.ModExampleMap:PersistentLevel.ModExampleMap)
+[2020.12.17-02.30.48:181][151]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.17-02.30.48:205][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.ModExampleMap:PersistentLevel.ModExampleMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ModExampleMap.PackageMetaData'
+[2020.12.17-02.30.48:205][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.ModExampleMap:PersistentLevel.ModExampleMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/ModExampleMap.PackageMetaData'
+[2020.12.17-02.30.48:212][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.Bullet_BaseModded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.Bullet_BaseModded:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.Bullet_BaseModded:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.Bullet_BaseModded:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.Bullet_BaseModded:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.Bullet_BaseModded:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.Bullet_BaseModded:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.Bullet_BaseModded:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.SKEL_Bullet_BaseModded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.SKEL_Bullet_BaseModded_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.SKEL_Bullet_BaseModded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.SKEL_Bullet_BaseModded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:213][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.SKEL_Bullet_BaseModded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:Debug Text' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:TriggerPull' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:Held' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:InDomiantHand' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:PlayerProxy' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:CustomAnim' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:CustomMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:NewGrip' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:NewHandle' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:OffhandMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:DominentMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:NewMagazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:Arrow' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:Arrow1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.SKEL_Gun_Base_BoltAction_Moded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:TriggerPull' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:Held' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:InDomiantHand' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:PlayerProxy' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:CustomAnim' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:CustomMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:NewGrip' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:NewHandle' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:OffhandMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:DominentMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:NewMagazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:Arrow' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:Arrow1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:217][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.Gun_Base_BoltAction_Moded_C:Debug Text' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded:OnRep_SetMesh.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded:SetMeshAndAnim.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded:GetInteractingHand.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:Debug Text' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:TriggerRatio' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:Held' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:InDomiantHand' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:PlayerProxy' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:CustomAnim' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:221][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:CustomMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:NewGrip' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:NewHandle' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:NewMagazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:DominentMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:OffhandMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.SKEL_Gun_Base_Pistol_Modded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:TriggerRatio' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:Held' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:InDomiantHand' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:PlayerProxy' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:CustomAnim' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:CustomMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:NewGrip' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:NewHandle' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:NewMagazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:DominentMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:OffhandMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:222][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.Gun_Base_Pistol_Modded_C:Debug Text' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:Debug Text' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:TriggerPull' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:Held' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:InDomiantHand' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:PlayerProxy' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:CustomAnim' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:CustomMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:NewGrip' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:NewHandle' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:OffhandMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:DominentMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:NewMagazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:Arrow' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:Arrow1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.SKEL_Gun_Base_PumpShotGun_Moded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:TriggerPull' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:Held' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:InDomiantHand' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:PlayerProxy' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:CustomAnim' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:CustomMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:NewGrip' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:NewHandle' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:226][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:OffhandMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:227][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:DominentMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:227][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:NewMagazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:227][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:Arrow' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:227][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:Arrow1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:227][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:227][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:227][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:227][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.Gun_Base_PumpShotGun_Moded_C:Debug Text' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.PackageMetaData'
+[2020.12.17-02.30.48:230][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded:OnRep_SetMesh.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded:SetMeshAndAnim.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded:GetInteractingHand.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:Debug Text' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:TriggerPull' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:Held' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:InDomiantHand' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:PlayerProxy' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:CustomAnim' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:CustomMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:NewGrip' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:NewHandle' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:OffhandMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:DominentMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:NewMagazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:Arrow' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:Arrow1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.SKEL_Gun_Base_Rife_Moded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:TriggerPull' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:Held' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:InDomiantHand' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:PlayerProxy' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:CustomAnim' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:CustomMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:NewGrip' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:NewHandle' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:OffhandMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:DominentMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:NewMagazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:Arrow' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:Arrow1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:231][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded_C:Debug Text' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded:OnRep_SetMesh.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.SKEL_Magazine_BaseModded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.SKEL_Magazine_BaseModded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.SKEL_Magazine_BaseModded_C:MagMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.SKEL_Magazine_BaseModded_C:Magazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.SKEL_Magazine_BaseModded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.SKEL_Magazine_BaseModded_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded_C:SetMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded_C:MagMesh' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded_C:Magazine' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:235][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.Magazine_BaseModded_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.BoltAction_AnimBP_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.SKEL_BoltAction_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.SKEL_BoltAction_AnimBP_C:SlideTime' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.SKEL_BoltAction_AnimBP_C:TriggerRatio' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.SKEL_BoltAction_AnimBP_C:MoveTime' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.SKEL_BoltAction_AnimBP_C:RotationTime' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.SKEL_BoltAction_AnimBP_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.BoltAction_AnimBP_C:SlideTime' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.BoltAction_AnimBP_C:TriggerRatio' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.BoltAction_AnimBP_C:MoveTime' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.BoltAction_AnimBP_C:RotationTime' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:240][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.BoltAction_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:243][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.Rifle_AnimBP_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:243][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.Rifle_AnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:243][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.Rifle_AnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:244][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.SKEL_Rifle_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:244][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.SKEL_Rifle_AnimBP_C:TriggerRatio' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:244][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.SKEL_Rifle_AnimBP_C:SlideTime' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:244][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.SKEL_Rifle_AnimBP_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:244][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.Rifle_AnimBP_C:TriggerRatio' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:244][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.Rifle_AnimBP_C:SlideTime' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:244][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.Rifle_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.PackageMetaData'
+[2020.12.17-02.30.48:247][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.Bullet_HaloRifle_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:247][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.Bullet_HaloRifle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:247][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.SKEL_Bullet_HaloRifle_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:247][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.SKEL_Bullet_HaloRifle_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:251][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.Gun_HaloBoltAction_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.PackageMetaData'
+[2020.12.17-02.30.48:251][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.SKEL_Gun_HaloBoltAction_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.PackageMetaData'
+[2020.12.17-02.30.48:251][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.SKEL_Gun_HaloBoltAction_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.PackageMetaData'
+[2020.12.17-02.30.48:251][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.Gun_HaloBoltAction_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.PackageMetaData'
+[2020.12.17-02.30.48:254][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.Gun_HaloRifle_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:254][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.Gun_HaloRifle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:254][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.SKEL_Gun_HaloRifle_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:254][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.SKEL_Gun_HaloRifle_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:254][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.Gun_HaloRifle_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.Magazine_HaloRifle_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.Magazine_HaloRifle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.Magazine_HaloRifle:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.Magazine_HaloRifle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.Magazine_HaloRifle:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.Magazine_HaloRifle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.Magazine_HaloRifle:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.Magazine_HaloRifle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.SKEL_Magazine_HaloRifle_C:ReceiveBeginPlay' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.SKEL_Magazine_HaloRifle_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.SKEL_Magazine_HaloRifle_C:ReceiveTick' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.SKEL_Magazine_HaloRifle_C:UserConstructionScript' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:261][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.SKEL_Magazine_HaloRifle_C' ref from Metadata '/Game/CustomMaps/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.PackageMetaData'
+[2020.12.17-02.30.48:276][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Firecue.Firecue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Firecue.PackageMetaData'
+[2020.12.17-02.30.48:609][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint_C' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.SKEL_HaloAssaultRife_Skeleton_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.SKEL_HaloAssaultRife_Skeleton_AnimBlueprint_C:TriggerRatio' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.SKEL_HaloAssaultRife_Skeleton_AnimBlueprint_C:SlideTime' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.SKEL_HaloAssaultRife_Skeleton_AnimBlueprint_C' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint_C:TriggerRatio' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint_C:SlideTime' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:610][151]LogMetaData: Removing '/Game/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/CustomMaps/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.PackageMetaData'
+[2020.12.17-02.30.48:641][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/ModExampleMap_BuiltDataDEB156804D92D20394EF359AE1702C3D.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap_BuiltData.uasset'
+[2020.12.17-02.30.48:656][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/CMP_GlobalInfoTest2967188D453047B5A036389168DAC8B0.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CMP_GlobalInfoTest.uasset'
+[2020.12.17-02.30.48:694][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/consoleMasterBCF98ED64889AA0E6450E18BFF03CD71.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/consoleMaster.uasset'
+[2020.12.17-02.30.48:719][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/ItemSpawner26E3F3FA4E8E7543AA6AB382A794C05D.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/ItemSpawner.uasset'
+[2020.12.17-02.30.48:748][151]LogBlueprint: Error: [Compiler PersistentLevel.ModExampleMap] Blueprint  ModExampleMap  has missing or NULL parent class.
+[2020.12.17-02.30.48:748][151]LogBlueprint: Warning: [Compiler PersistentLevel.ModExampleMap] [0025.55] Compile of PersistentLevel.ModExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.ModExampleMap:PersistentLevel.ModExampleMap)
+[2020.12.17-02.30.48:749][151]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.17-02.30.48:815][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/ModExampleMap8A785BFB4C36DE1311051D92A414B44A.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.umap'
+[2020.12.17-02.30.48:820][151]LogFileHelpers: Saving map 'ModExampleMap' took 0.098
+[2020.12.17-02.30.48:843][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Bullet_BaseModdedF29CA3984E17C54ED8539E8558A8CCB3.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Bullet_BaseModded.uasset'
+[2020.12.17-02.30.48:917][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_Base_BoltAction_Moded5770BB764AC87A0F166F5F8EA705F36E.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_BoltAction_Moded.uasset'
+[2020.12.17-02.30.49:033][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_Base_Pistol_Modded6C14BC204FEBE81DC5772E9FA74A55BE.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Pistol_Modded.uasset'
+[2020.12.17-02.30.49:112][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_Base_PumpShotGun_Moded5D66870D4D837E73E9E5E8AB73810DE5.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_PumpShotGun_Moded.uasset'
+[2020.12.17-02.30.49:187][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_Base_Rife_ModedFBE723964CE8876DCDA7D38D59D4C0C8.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Gun_Base_Rife_Moded.uasset'
+[2020.12.17-02.30.49:219][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_BaseModded94EFEA7B4BDE7B6DD225819D82745F6C.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/Magazine_BaseModded.uasset'
+[2020.12.17-02.30.49:255][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/BoltAction_AnimBPE5F47CDA409DACE3E16F32939A542854.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/BoltAction_AnimBP.uasset'
+[2020.12.17-02.30.49:262][151]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife'
+[2020.12.17-02.30.49:263][151]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife'
+[2020.12.17-02.30.49:263][151]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife'
+[2020.12.17-02.30.49:292][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Rifle_AnimBP4EF6B6864551F6AC57CFAF88807901AF.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Base/AnimBPs/Rifle_AnimBP.uasset'
+[2020.12.17-02.30.49:306][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Bullet_HaloRifle4041E1F24F059C1EC2F630BCA604185B.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Bullet_HaloRifle.uasset'
+[2020.12.17-02.30.49:322][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloBoltAction199EDFB84FF8A68B4B6B899CA4BBFBDF.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloBoltAction.uasset'
+[2020.12.17-02.30.49:357][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle9EB740C441D23A3BE7235BABA51A1945.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Gun_HaloRifle.uasset'
+[2020.12.17-02.30.49:367][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_SkeletonB20F484B4F4BA819B8824E89889C96B0.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/HaloAssaultRife_Skeleton.uasset'
+[2020.12.17-02.30.49:397][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_HaloRifleC363EE3F4F1F977CC152C786D9558A49.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/CustomGun/Tutorial/Magazine_HaloRifle.uasset'
+[2020.12.17-02.30.49:410][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/fire1DC3E7DAF4C446CC74E4BDE9757026E89.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/fire1.uasset'
+[2020.12.17-02.30.49:425][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Firecue7CDE7FAB4455AB79D5B31B864067A457.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Firecue.uasset'
+[2020.12.17-02.30.49:434][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Firecueerror07F7C0674D94CB16564CBAA29D0A93F9.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Firecueerror.uasset'
+[2020.12.17-02.30.49:461][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/AmmoCounter6A4F3DF14CF7F6577C3C35A7EA5CC7F9.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/AmmoCounter.uasset'
+[2020.12.17-02.30.49:496][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/AmmoCounter_albedo4214EFD746441116584797B558D8533A.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/AmmoCounter_albedo.uasset'
+[2020.12.17-02.30.49:524][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/AmmoCounter_AOB6009384478AF263E64D269ECD006993.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/AmmoCounter_AO.uasset'
+[2020.12.17-02.30.49:542][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/AmmoCounter_emissive79A215F14F357BF26A487DAB706E693F.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/AmmoCounter_emissive.uasset'
+[2020.12.17-02.30.49:568][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/AmmoCounter_metallic8E0744EF4BDB84EF6F37F7B88836216C.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/AmmoCounter_metallic.uasset'
+[2020.12.17-02.30.49:614][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/AmmoCounter_normal6BFAD2234CA2DF87981267AFCFDEC7F1.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/AmmoCounter_normal.uasset'
+[2020.12.17-02.30.49:631][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/AmmoCounter_opacity467809DA462959126DB57383AD2E7389.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/AmmoCounter_opacity.uasset'
+[2020.12.17-02.30.49:657][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/AmmoCounter_roughnessF425EC734765C8243941D18700F1AEDC.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/AmmoCounter_roughness.uasset'
+[2020.12.17-02.30.49:678][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Display5AD5FBE94E59FCF56DA1699DFF6958AF.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Display.uasset'
+[2020.12.17-02.30.49:695][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Display_albedo180202CA4B354C12DFDC2DA0BCD87337.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Display_albedo.uasset'
+[2020.12.17-02.30.49:714][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Display_AO562F7B2A4E33C15A6B37A4886A170C34.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Display_AO.uasset'
+[2020.12.17-02.30.49:738][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Display_emissiveD263C33546DA846CEF83628A70CAA550.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Display_emissive.uasset'
+[2020.12.17-02.30.49:753][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Display_metallic1271C9CA486BAC73152C64AFE8E2D531.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Display_metallic.uasset'
+[2020.12.17-02.30.49:784][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Display_normalCA22D0C04A5C2EA4BD3450BFE56AA7A2.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Display_normal.uasset'
+[2020.12.17-02.30.49:803][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Display_opacity32B7802B434E015038895E9113B76264.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Display_opacity.uasset'
+[2020.12.17-02.30.49:827][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Display_roughnessFB40E0114408ED70F3CAF69A646CA7EF.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Display_roughness.uasset'
+[2020.12.17-02.30.49:848][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Front704EB41F47A569E6FF86C1A63018E554.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Front.uasset'
+[2020.12.17-02.30.49:882][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Front_albedo30B0E50140B2498C588E25AADC0255A7.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Front_albedo.uasset'
+[2020.12.17-02.30.49:903][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Front_AO92D763B8441AF2265965ACAAFD34726E.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Front_AO.uasset'
+[2020.12.17-02.30.49:929][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Front_metallicF61A6DCC4848FCBD00F4F58FA3972D21.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Front_metallic.uasset'
+[2020.12.17-02.30.49:968][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Front_normalB2DD7CFB4212503CDDE3CFBE7A94C459.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Front_normal.uasset'
+[2020.12.17-02.30.49:984][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Front_opacity16336A3B4B4BB8A7DBC0A09861CBD8B3.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Front_opacity.uasset'
+[2020.12.17-02.30.50:011][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Front_roughness403E89DC49EB569D322143B0BF52C188.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Front_roughness.uasset'
+[2020.12.17-02.30.50:031][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine6F2FCE174FE9796AA3B59F82358B6E71.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Magazine.uasset'
+[2020.12.17-02.30.50:065][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_albedoBB4258274BFF7ED97208179DEC168A33.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Magazine_albedo.uasset'
+[2020.12.17-02.30.50:084][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_AOD2BCED584BFD0E210B2A82A1BDA45BD8.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Magazine_AO.uasset'
+[2020.12.17-02.30.50:110][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_metallicC4B76C8C4A3E3E2D63BFE69948DE7514.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Magazine_metallic.uasset'
+[2020.12.17-02.30.50:149][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_normalB2C99742453FA7D33761CE8DB6D08E64.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Magazine_normal.uasset'
+[2020.12.17-02.30.50:165][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_opacityBDD568F345A190EA55DA8D932FFC1599.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Magazine_opacity.uasset'
+[2020.12.17-02.30.50:192][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_roughness4B6F14B44482074FC6A7239CD6FC25F0.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Magazine_roughness.uasset'
+[2020.12.17-02.30.50:212][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/RearA643DA7746FC2B8FFCACF89FD03BFA78.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Rear.uasset'
+[2020.12.17-02.30.50:247][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Rear_albedo6302E86A44463087682DADA3CAAA9C93.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Rear_albedo.uasset'
+[2020.12.17-02.30.50:270][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Rear_AOEB1746DB4F6A4DB919EB4BBA25318B57.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Rear_AO.uasset'
+[2020.12.17-02.30.50:294][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Rear_metallicA8A3E1DE4E099B24C63EA396DE94D670.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Rear_metallic.uasset'
+[2020.12.17-02.30.50:337][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Rear_normal4817840D4C87EDB65DEB98A7BB7DA663.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Rear_normal.uasset'
+[2020.12.17-02.30.50:352][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Rear_opacityAF4A53C64B823CC6411226B5CEB81ECC.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Rear_opacity.uasset'
+[2020.12.17-02.30.50:379][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Rear_roughnessEF55DDF84725C7846B7266B1EE254287.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Rear_roughness.uasset'
+[2020.12.17-02.30.50:399][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Shroud88F8EE6746ABD309153FF4B17F7143DE.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Shroud.uasset'
+[2020.12.17-02.30.50:434][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Shroud_albedoCE4708CD4ACB27D9A69B16851551DEF3.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Shroud_albedo.uasset'
+[2020.12.17-02.30.50:455][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Shroud_AO40E7F9C249FA2B38F96170B1EBEA004E.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Shroud_AO.uasset'
+[2020.12.17-02.30.50:482][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Shroud_metallic8FA8E84E4A0D45461467D4BBC4CE18C4.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Shroud_metallic.uasset'
+[2020.12.17-02.30.50:524][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Shroud_normalF62DA3194055C6D96203E9A92EE220F4.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Shroud_normal.uasset'
+[2020.12.17-02.30.50:539][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Shroud_opacity0E8DC7344093D2D184933BA6CF15214A.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Shroud_opacity.uasset'
+[2020.12.17-02.30.50:566][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Shroud_roughness56C2E3ED4149F12ED17284960E00745B.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Materials/Shroud_roughness.uasset'
+[2020.12.17-02.30.50:571][151]LogAnimation: Warning: SkeletalMesh HaloAssaultRife has no skeleton. This needs to fixed before an animation can be set
+[2020.12.17-02.30.50:601][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife31F53C8B46F5D058224040B5E3D977C0.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.17-02.30.50:626][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRifeMag9D0264134C206628579AFEAD6DFB0C40.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRifeMag.uasset'
+[2020.12.17-02.30.50:651][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_PhysicsAsset509B30DA4A823189DDC478973BA7CA8F.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_PhysicsAsset.uasset'
+[2020.12.17-02.30.50:679][151]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_Skeleton_AnimBluF0DDEB23437204C04990B8BBBEAA9CDC.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.uasset'
+[2020.12.17-02.30.57:412][492]LogAssetEditorManager: Opening Asset editor for Pavlov_Map /Game/CustomMaps/UGC2323478315/definition.definition
+[2020.12.17-02.31.18:688][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaps/UGC2323478315/definition" FILE="C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/definition.uasset" SILENT=true
+[2020.12.17-02.31.18:706][827]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/definition330017414F886C4A971B16938CFF80DD.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/definition.uasset'
+[2020.12.17-02.31.19:320][900]LogSlate: Window 'definition - Generic Asset Editor' being destroyed
+[2020.12.17-02.31.19:325][900]LogSlate: Window 'definition - Generic Asset Editor' being destroyed
+[2020.12.17-02.31.22:296][255]LogAssetEditorManager: Opening Asset editor for World /Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.ModExampleMap
+[2020.12.17-02.31.22:316][255]Cmd: MAP LOAD FILE="C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.17-02.31.22:316][255]LightingResults: New page: Lighting Build
+[2020.12.17-02.31.22:317][255]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.12.17-02.31.22:318][255]LoadErrors: New page: Loading map: ModExampleMap.umap
+[2020.12.17-02.31.22:318][255]MapCheck: New page: Map Check
+[2020.12.17-02.31.22:318][255]LightingResults: New page: Lighting Build
+[2020.12.17-02.31.22:338][255]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.17-02.31.22:376][255]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.17-02.31.22:376][255]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2020.12.17-02.31.22:378][255]LogFileHelpers: Loading map 'ModExampleMap' took 0.063
+[2020.12.17-02.31.26:064][597]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.17-02.31.26:153][602]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pavlov
+[2020.12.17-02.31.26:153][602]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.12.17-02.31.26:154][602]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.21
+[2020.12.17-02.31.26:154][602]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.12.17-02.31.26:154][602]LogTemp: BranchPath = DESKTOP-Q357MKB/D/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-Q357MKB/D/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2020.12.17-02.31.26:171][604]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Alec\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.12.17-02.31.31:485][216]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.17-02.31.31:490][216]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.17-02.31.33:075][396]LogBlueprint: Error: [Compiler PersistentLevel.ModExampleMap] Blueprint  ModExampleMap  has missing or NULL parent class.
+[2020.12.17-02.31.33:075][396]LogBlueprint: Warning: [Compiler PersistentLevel.ModExampleMap] [0069.88] Compile of PersistentLevel.ModExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.ModExampleMap:PersistentLevel.ModExampleMap)
+[2020.12.17-02.31.33:075][396]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.17-02.31.33:139][396]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/ModExampleMap336E864848F26B36E2CCE2B76FBE75CF.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap.umap'
+[2020.12.17-02.31.33:186][396]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/ModExampleMap_BuiltDataED1D720C4A861D1E1EE0B297A6FA273F.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2323478315/Folder/CustomGunBase/ModExampleMap_BuiltData.uasset'
+[2020.12.17-02.31.35:362][650]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.17-02.31.35:363][650]LogWindows: Windows GetLastError: The operation completed successfully. (0)

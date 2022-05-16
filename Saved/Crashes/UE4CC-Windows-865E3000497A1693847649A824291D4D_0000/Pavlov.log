@@ -1,0 +1,1276 @@
+﻿Log file open, 12/16/20 16:46:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.287314
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.063s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2020.12.17-00.46.50:949][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-00.46.50:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-00.46.50:950][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2020.12.17-00.46.50:950][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-00.46.50:955][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.17-00.46.50:955][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.17-00.46.50:955][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.17-00.46.50:956][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.17-00.46.50:956][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.17-00.46.50:956][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.17-00.46.50:965][  0]LogHAL: Display: Platform has ~ 16 GB [17106694144 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.12.17-00.46.50:965][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.17-00.46.50:965][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.17-00.46.50:965][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.17-00.46.50:965][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.17-00.46.50:966][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.17-00.46.50:966][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.17-00.46.50:966][  0]LogInit: Computer: DESKTOP-Q357MKB
+[2020.12.17-00.46.50:966][  0]LogInit: User: Alec
+[2020.12.17-00.46.50:966][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.12.17-00.46.50:966][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.17-00.46.50:966][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.17-00.46.50:966][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.17-00.46.50:966][  0]LogMemory: Process Physical Memory: 104.44 MB used, 104.45 MB peak
+[2020.12.17-00.46.50:966][  0]LogMemory: Process Virtual Memory: 97.02 MB used, 97.02 MB peak
+[2020.12.17-00.46.50:966][  0]LogMemory: Physical Memory: 7070.07 MB used,  9244.15 MB free, 16314.21 MB total
+[2020.12.17-00.46.50:966][  0]LogMemory: Virtual Memory: 4645.42 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.12.17-00.46.50:996][  0]LogInit: Using OS detected language (en-US).
+[2020.12.17-00.46.50:996][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.17-00.46.50:997][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.17-00.46.51:264][  0]LogStreaming: Display: Took  0.268s to InitEngineTextLocalization.
+[2020.12.17-00.46.51:264][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.17-00.46.51:286][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.17-00.46.51:286][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.17-00.46.51:657][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.17-00.46.51:709][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2020.12.17-00.46.51:709][  0]LogD3D11RHI:       8010/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.17-00.46.51:711][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.17-00.46.51:711][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.17-00.46.51:711][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.17-00.46.51:715][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.17-00.46.51:715][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.17-00.46.51:715][  0]LogWindows: EnumDisplayDevices:
+[2020.12.17-00.46.51:715][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:1)
+[2020.12.17-00.46.51:716][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2020.12.17-00.46.51:716][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.12.17-00.46.51:716][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.12.17-00.46.51:716][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.17-00.46.51:716][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2020.12.17-00.46.51:716][  0]LogD3D11RHI:   Driver Version: 456.55 (internal:27.21.14.5655, unified:456.55)
+[2020.12.17-00.46.51:716][  0]LogD3D11RHI:      Driver Date: 9-24-2020
+[2020.12.17-00.46.51:716][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.12.17-00.46.51:750][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.17-00.46.51:771][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.17-00.46.51:773][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2020.12.17-00.46.51:998][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.12.17-00.46.52:007][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.12.17-00.46.52:017][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.12.17-00.46.52:027][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.12.17-00.46.52:038][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.12.17-00.46.52:047][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.12.17-00.46.52:057][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.12.17-00.46.52:067][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.12.17-00.46.52:071][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.17-00.46.52:129][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.12.17-00.46.52:183][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.12.17-00.46.52:183][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.12.17-00.46.52:200][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.12.17-00.46.52:200][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.12.17-00.46.52:210][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.12.17-00.46.52:220][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.12.17-00.46.52:229][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.12.17-00.46.52:240][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.12.17-00.46.52:275][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.12.17-00.46.52:275][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.12.17-00.46.52:275][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.17-00.46.52:311][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Intermediate/Shaders/WorkingDirectory/6512/).
+[2020.12.17-00.46.52:312][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alec/AppData/Local/Temp/UnrealShaderWorkingDir/568D26674B2727A21CF352BB53D3C294/'.
+[2020.12.17-00.46.52:312][  0]LogXGEController: Cleaning working directory: C:/Users/Alec/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.17-00.46.52:313][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.17-00.46.52:313][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.17-00.46.52:313][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.17-00.46.52:723][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.17-00.46.52:768][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.12.17-00.46.52:769][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.12.17-00.46.52:769][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.17-00.46.52:769][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.17-00.46.52:769][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.17-00.46.52:769][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.17-00.46.52:780][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.17-00.46.52:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.17-00.46.52:780][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.17-00.46.52:792][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.17-00.46.52:792][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.17-00.46.52:792][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.17-00.46.52:809][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.17-00.46.52:810][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.17-00.46.52:811][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.17-00.46.52:886][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2020.12.17-00.46.53:118][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.17-00.46.53:222][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.12.17-00.46.53:224][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.12.17-00.46.53:224][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.17-00.46.53:224][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.17-00.46.53:224][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.12.17-00.46.53:237][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2020.12.17-00.46.53:625][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.080766 seconds
+[2020.12.17-00.46.53:629][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.12.17-00.46.53:629][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.12.17-00.46.53:629][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.17-00.46.54:214][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2020.12.17-00.46.54:215][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:215][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:238][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2020.12.17-00.46.54:238][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:238][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:241][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2020.12.17-00.46.54:241][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:241][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:243][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2020.12.17-00.46.54:244][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:244][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:246][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2020.12.17-00.46.54:246][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:246][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:249][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2020.12.17-00.46.54:249][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:249][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:268][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2020.12.17-00.46.54:268][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:268][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:271][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2020.12.17-00.46.54:271][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:271][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:274][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2020.12.17-00.46.54:274][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-00.46.54:274][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.17-00.46.54:319][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.17-00.46.54:332][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.17-00.46.54:925][  0]LogSteamAudio: FSteamAudioModule Startup
+[2020.12.17-00.46.54:925][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2020.12.17-00.46.54:927][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2020.12.17-00.46.54:928][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2020.12.17-00.46.54:928][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2020.12.17-00.46.54:928][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2020.12.17-00.46.54:929][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2020.12.17-00.46.54:956][  0]SourceControl: Source control is disabled
+[2020.12.17-00.46.54:957][  0]SourceControl: Source control is disabled
+[2020.12.17-00.46.54:957][  0]SourceControl: Source control is disabled
+[2020.12.17-00.46.54:958][  0]SourceControl: Source control is disabled
+[2020.12.17-00.46.55:103][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.17-00.46.55:179][  0]LogOcInput: OculusInput pre-init called
+[2020.12.17-00.46.55:302][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.12.17-00.46.55:302][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.12.17-00.46.55:302][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.12.17-00.46.55:302][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.12.17-00.46.55:302][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.12.17-00.46.55:302][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2020.12.17-00.46.55:303][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.12.17-00.46.55:303][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.12.17-00.46.55:303][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.12.17-00.46.55:303][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.12.17-00.46.55:303][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.12.17-00.46.55:304][  0]LogEngine: Initializing Engine...
+[2020.12.17-00.46.55:305][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-264DFCE4
+[2020.12.17-00.46.55:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.12.17-00.46.55:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.12.17-00.46.55:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.12.17-00.46.55:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.12.17-00.46.55:477][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.17-00.46.55:484][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.17-00.46.55:513][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.17-00.46.55:538][  0]LogInit: FAudioDevice initialized.
+[2020.12.17-00.46.55:539][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.17-00.46.55:611][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.12.17-00.46.55:618][  0]LogInit: Texture streaming: Enabled
+[2020.12.17-00.46.55:628][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.17-00.46.55:639][  0]LogInit: Transaction tracking system initialized
+[2020.12.17-00.46.55:651][  0]BlueprintLog: New page: Editor Load
+[2020.12.17-00.46.55:692][  0]LocalizationService: Localization service is disabled
+[2020.12.17-00.46.56:038][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.17-00.46.56:038][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/' took 0.02s
+[2020.12.17-00.46.56:038][  0]LogCook: Display: Mobile HDR setting 0
+[2020.12.17-00.46.56:038][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.12.17-00.46.56:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.12.17-00.46.56:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.12.17-00.46.56:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.12.17-00.46.56:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.12.17-00.46.56:098][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2020.12.17-00.46.56:170][  0]CustomMapToolsLog: Visiting C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/CustomGunBase
+[2020.12.17-00.46.56:170][  0]CustomMapToolsLog: Visiting C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/CustomGunBase
+[2020.12.17-00.46.56:202][  0]SourceControl: Source control is disabled
+[2020.12.17-00.46.56:202][  0]Cmd: MAP LOAD FILE="C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/CustomGunBase/ModExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.17-00.46.56:202][  0]LightingResults: New page: Lighting Build
+[2020.12.17-00.46.56:204][  0]MapCheck: New page: Map Check
+[2020.12.17-00.46.56:204][  0]LightingResults: New page: Lighting Build
+[2020.12.17-00.46.56:260][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:260][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.12.17-00.46.56:260][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_HandProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:260][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:260][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.12.17-00.46.56:260][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_HandProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.17-00.46.56:261][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.17-00.46.56:261][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.17-00.46.56:261][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:261][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by Default__BP_HandProxyExample_C
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.17-00.46.56:261][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by Default__BP_HandProxyExample_C
+[2020.12.17-00.46.56:261][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:261][  0]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer BP_HandProxyExample_C /CustomMapTools/Examples/Proxies/BP_HandProxyExample.Default__BP_HandProxyExample_C because its class does not exist
+[2020.12.17-00.46.56:477][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:477][  0]LoadErrors: Failed to load /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.17-00.46.56:477][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.17-00.46.56:477][  0]LoadErrors: Failed to load /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.17-00.46.56:477][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:477][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:478][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.17-00.46.56:478][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.17-00.46.56:478][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.17-00.46.56:478][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:478][  0]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2020.12.17-00.46.56:483][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.17-00.46.56:483][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.17-00.46.56:483][  0]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body
+[2020.12.17-00.46.56:483][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.17-00.46.56:483][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.17-00.46.56:483][  0]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo
+[2020.12.17-00.46.56:485][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.17-00.46.56:485][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.17-00.46.56:485][  0]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body
+[2020.12.17-00.46.56:485][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.17-00.46.56:486][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.17-00.46.56:486][  0]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo
+[2020.12.17-00.46.56:492][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:492][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.17-00.46.56:492][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:494][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:494][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.17-00.46.56:494][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:551][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:551][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.12.17-00.46.56:551][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/ModItem_FOB : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:553][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.17-00.46.56:553][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.12.17-00.46.56:553][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/ModItem_FOB : Can't find file for asset. /Script/UmbraComputation
+[2020.12.17-00.46.56:670][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.17-00.46.56:670][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2020.12.17-00.46.56:670][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2020.12.17-00.46.56:670][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2020.12.17-00.46.56:670][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.17-00.46.56:670][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2020.12.17-00.46.56:670][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2020.12.17-00.46.56:670][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2020.12.17-00.46.56:919][  0]LogAIModule: Creating AISystem for world ModExampleMap
+[2020.12.17-00.46.56:927][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.17-00.46.56:951][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.17-00.46.56:951][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2020.12.17-00.46.56:951][  0]LogFileHelpers: Loading map 'ModExampleMap' took 0.749
+[2020.12.17-00.46.57:047][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.46.57:052][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.46.57:058][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.46.57:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-00.46.57:067][  0]LogCollectionManager: Loaded 0 collections in 0.000643 seconds
+[2020.12.17-00.46.57:094][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Collections/' took 0.01s
+[2020.12.17-00.46.57:094][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/Developers/Alec/Collections/' took 0.00s
+[2020.12.17-00.46.57:094][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/Collections/' took 0.01s
+[2020.12.17-00.46.57:094][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.12.17-00.46.57:100][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2705 classes and 639 folders.
+[2020.12.17-00.46.57:106][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-00.46.57:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.17-00.46.57:151][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-00.46.57:155][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.12.17-00.46.57:167][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.17-00.46.57:169][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.17-00.46.57:172][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.17-00.46.57:227][  0]LogRenderer: Reallocating scene render targets to support 1068x584 Format 9 NumSamples 4 (Frame:1).
+[2020.12.17-00.46.57:250][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.17-00.46.57:322][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-00.46.57:322][  0]LogLoad: (Engine Initialization) Total time: 7.93 seconds
+[2020.12.17-00.46.57:322][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.17-00.46.57:337][  0]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.57:469][  0]LogContentStreaming: Texture pool size now 2500 MB
+[2020.12.17-00.46.57:471][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.17-00.46.57:478][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.17-00.46.57:546][  0]LogRenderer: Reallocating scene render targets to support 1068x604 Format 9 NumSamples 4 (Frame:2).
+[2020.12.17-00.46.57:559][  1]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.57:618][  2]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.57:699][  3]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.57:769][  4]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.57:781][  4]LogAssetRegistry: Asset discovery search completed in 4.9163 seconds
+[2020.12.17-00.46.57:782][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.12.17-00.46.57:782][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2020.12.17-00.46.58:102][  5]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.58:435][  6]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.58:775][  7]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:106][  8]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:110][  9]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:118][ 10]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:127][ 11]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:135][ 12]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:143][ 13]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:152][ 14]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:160][ 15]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:169][ 16]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:177][ 17]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:186][ 18]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:188][ 18]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife'
+[2020.12.17-00.46.59:188][ 18]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife'
+[2020.12.17-00.46.59:189][ 18]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife'
+[2020.12.17-00.46.59:197][ 19]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:205][ 20]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:213][ 21]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:221][ 22]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:229][ 23]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:238][ 24]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:246][ 25]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:255][ 26]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:263][ 27]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:272][ 28]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:280][ 29]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:288][ 30]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:297][ 31]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:305][ 32]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:313][ 33]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:322][ 34]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:330][ 35]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:337][ 36]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:346][ 37]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:354][ 38]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:363][ 39]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:371][ 40]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:379][ 41]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:388][ 42]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:396][ 43]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:404][ 44]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:413][ 45]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:422][ 46]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:430][ 47]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:438][ 48]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:447][ 49]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:455][ 50]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:463][ 51]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:472][ 52]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:480][ 53]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:488][ 54]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:497][ 55]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:505][ 56]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:513][ 57]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:522][ 58]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:530][ 59]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:541][ 60]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:552][ 61]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:560][ 62]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:568][ 63]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:578][ 64]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:586][ 65]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:595][ 66]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:602][ 67]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:610][ 68]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:621][ 69]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:632][ 70]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:639][ 71]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:648][ 72]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:656][ 73]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:665][ 74]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:673][ 75]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:681][ 76]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:689][ 77]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:697][ 78]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:706][ 79]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:714][ 80]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:722][ 81]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:731][ 82]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:739][ 83]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:747][ 84]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:756][ 85]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:764][ 86]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:772][ 87]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:781][ 88]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:789][ 89]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:797][ 90]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:806][ 91]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:814][ 92]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:822][ 93]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:830][ 94]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:839][ 95]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:847][ 96]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:856][ 97]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:864][ 98]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:872][ 99]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:881][100]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:889][101]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:898][102]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:906][103]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:914][104]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:923][105]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:931][106]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:939][107]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:948][108]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:956][109]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:964][110]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:973][111]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:981][112]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:990][113]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.46.59:998][114]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:007][115]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:017][116]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:025][117]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:032][118]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:040][119]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:049][120]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:057][121]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:065][122]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:074][123]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:085][124]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:094][125]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:102][126]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:111][127]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:120][128]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:127][129]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:135][130]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:145][131]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:152][132]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:160][133]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:169][134]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:177][135]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:186][136]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:194][137]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:203][138]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:211][139]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:219][140]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:227][141]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:237][142]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:245][143]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:253][144]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:260][145]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:268][146]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:277][147]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:285][148]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:294][149]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:302][150]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:310][151]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:319][152]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:327][153]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:336][154]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:345][155]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:352][156]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:361][157]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:369][158]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:377][159]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:386][160]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:394][161]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:402][162]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:410][163]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:419][164]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:427][165]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:435][166]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:444][167]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:452][168]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:461][169]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:469][170]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:477][171]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:486][172]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:494][173]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:503][174]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:511][175]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:519][176]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:528][177]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:536][178]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:544][179]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:552][180]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:561][181]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:569][182]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:578][183]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:586][184]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:594][185]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:602][186]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:610][187]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:619][188]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:630][189]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:639][190]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:648][191]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:656][192]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:664][193]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:673][194]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:681][195]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:689][196]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:697][197]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:705][198]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:713][199]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:722][200]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:731][201]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:739][202]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:747][203]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:756][204]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:764][205]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:772][206]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:781][207]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:789][208]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:797][209]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:806][210]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:814][211]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:823][212]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:831][213]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:839][214]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:848][215]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:856][216]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:864][217]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:873][218]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:880][219]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:888][220]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:897][221]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:905][222]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:913][223]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:922][224]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:930][225]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:939][226]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:947][227]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:955][228]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:964][229]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:972][230]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:980][231]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:989][232]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.00:997][233]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:005][234]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:013][235]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:023][236]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:030][237]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:039][238]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:047][239]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:055][240]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:064][241]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:072][242]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:081][243]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:089][244]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:097][245]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:106][246]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:114][247]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:122][248]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:131][249]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:139][250]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:147][251]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:156][252]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:164][253]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:172][254]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:181][255]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:189][256]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:197][257]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:205][258]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:214][259]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:222][260]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:231][261]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:239][262]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:247][263]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:256][264]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:264][265]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:272][266]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:281][267]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:289][268]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:297][269]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:306][270]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:314][271]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:322][272]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:330][273]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:339][274]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:347][275]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:356][276]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:364][277]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:373][278]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:380][279]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:388][280]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:397][281]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:405][282]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:413][283]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:422][284]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:430][285]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:439][286]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:447][287]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:456][288]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:464][289]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:472][290]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:481][291]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:489][292]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:497][293]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:506][294]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:514][295]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:522][296]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:531][297]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:539][298]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:547][299]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:556][300]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:564][301]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:573][302]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:581][303]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:589][304]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:597][305]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:606][306]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:614][307]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:622][308]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:630][309]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:639][310]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:647][311]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:655][312]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:664][313]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:673][314]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:681][315]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:689][316]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:698][317]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:706][318]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:714][319]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:724][320]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:737][321]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:745][322]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:753][323]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:761][324]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:770][325]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:778][326]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:787][327]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:795][328]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:803][329]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:812][330]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:820][331]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:828][332]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:837][333]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:845][334]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:853][335]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:862][336]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:870][337]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:878][338]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:887][339]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:895][340]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:904][341]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:912][342]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:921][343]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:929][344]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:937][345]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:945][346]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:953][347]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:961][348]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:970][349]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:979][350]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:987][351]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.01:995][352]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:004][353]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:012][354]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:020][355]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:029][356]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:037][357]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:045][358]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:054][359]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:062][360]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:070][361]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:079][362]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:087][363]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:095][364]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:104][365]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:112][366]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:120][367]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:129][368]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:137][369]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:146][370]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:154][371]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:162][372]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:171][373]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:178][374]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:187][375]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:195][376]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:203][377]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:212][378]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:220][379]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:229][380]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:237][381]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:246][382]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:254][383]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:262][384]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:270][385]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:279][386]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:287][387]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:296][388]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:304][389]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:313][390]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:321][391]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:328][392]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:337][393]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:345][394]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:353][395]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:362][396]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:370][397]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:378][398]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:387][399]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:395][400]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:403][401]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:412][402]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:420][403]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:429][404]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:438][405]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:446][406]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:454][407]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:462][408]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:471][409]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:479][410]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:488][411]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:496][412]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:504][413]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:512][414]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:520][415]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:531][416]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:538][417]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:548][418]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:555][419]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:563][420]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:575][421]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:582][422]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:590][423]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:601][424]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:607][425]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:615][426]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:624][427]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:633][428]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:643][429]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:649][430]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:657][431]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:666][432]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:674][433]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:681][434]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:690][435]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:698][436]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:707][437]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:717][438]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:725][439]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:732][440]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:741][441]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:749][442]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:759][443]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:769][444]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:777][445]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:784][446]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:792][447]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:800][448]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:809][449]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:819][450]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:825][451]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:834][452]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:842][453]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:850][454]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:858][455]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:866][456]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:875][457]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:884][458]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:894][459]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:901][460]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:909][461]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:917][462]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:925][463]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:934][464]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:941][465]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:950][466]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:958][467]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:967][468]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:975][469]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:983][470]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:991][471]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.02:999][472]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:008][473]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:016][474]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:024][475]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:033][476]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:041][477]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:049][478]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:058][479]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:066][480]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:075][481]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:083][482]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:091][483]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:100][484]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:108][485]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:118][486]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:125][487]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:133][488]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:142][489]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:150][490]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:158][491]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:167][492]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:175][493]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:184][494]LogSteamVRController: Warning: Encountered unsupported device class of 5!
+[2020.12.17-00.47.03:214][495]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/CustomMaps/CustomGunBase/CustomGun/Base/BoltAction_AnimBP.BoltAction_AnimBP
+[2020.12.17-00.47.03:224][495]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.12.17-00.47.03:365][495]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.12.17-00.47.03:671][495]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2020.12.17-00.47.04:233][495]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.17-00.47.05:134][495]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.902 s
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: 
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 874]
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: Type mismatch: Expected BoltAction_AnimBP_C, Found AnimPreviewInstance
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: Stack: 
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd6a909f16 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd5068de5e UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd50678175 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4e18863d UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd6ee52549 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4e112888 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4cecbccd UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4ce82959 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4ced6b33 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.17-00.47.05:134][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4ce806aa UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4ce7cff0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4cee34a0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffd4ced6fff UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffd6f8b886a UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffd6f95062e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffd6f9378a4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffd6f92aa6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdb0a6ddce UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdb0a60de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdb0a701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdb0a5ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdcf5a5c1d USER32.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdcf5a5612 USER32.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdb0a71746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ff7bf225546 UE4Editor.exe!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ff7bf23596c UE4Editor.exe!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ff7bf2359ea UE4Editor.exe!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ff7bf2448da UE4Editor.exe!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ff7bf24659a UE4Editor.exe!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdd0707c24 KERNEL32.DLL!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: [Callstack] 0x00007ffdd0eed4d1 ntdll.dll!UnknownFunction []
+[2020.12.17-00.47.05:135][495]LogOutputDevice: Error: 
+[2020.12.17-00.47.05:145][495]LogStats:                SubmitErrorReport -  0.000 s

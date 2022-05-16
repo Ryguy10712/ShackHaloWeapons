@@ -1,0 +1,11 @@
+{
+	"Id": "SVR_Ryguy_HaloWeapons",
+	"Version": 8,
+	"MapLabel": "HaloWeapons",
+	"IsCustomGameMode": false,
+	"CustomGameModeLabel": "HaloTest",
+	"AndroidPakSize": 68120995,
+	"WindowsPakSize": 0,
+	"LinuxServerPakSize": 0,
+	"ShackLinuxServerPakSize": 1157361
+}

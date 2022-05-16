@@ -1,0 +1,1383 @@
+﻿Log file open, 12/15/20 16:47:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286282
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.059s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2020.12.16-00.47.34:297][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.16-00.47.34:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.16-00.47.34:298][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2020.12.16-00.47.34:298][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.16-00.47.34:302][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.16-00.47.34:302][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.16-00.47.34:302][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.16-00.47.34:303][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.16-00.47.34:303][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.16-00.47.34:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.16-00.47.34:312][  0]LogHAL: Display: Platform has ~ 16 GB [17106694144 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.12.16-00.47.34:312][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.16-00.47.34:312][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.12.16-00.47.34:312][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.12.16-00.47.34:313][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Scalability.ini]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.16-00.47.34:313][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.16-00.47.34:313][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Config/Windows/Engine.ini]
+[2020.12.16-00.47.34:313][  0]LogInit: Computer: DESKTOP-Q357MKB
+[2020.12.16-00.47.34:313][  0]LogInit: User: Alec
+[2020.12.16-00.47.34:313][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.12.16-00.47.34:313][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.16-00.47.34:313][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.16-00.47.34:313][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.16-00.47.34:313][  0]LogMemory: Process Physical Memory: 103.73 MB used, 103.73 MB peak
+[2020.12.16-00.47.34:313][  0]LogMemory: Process Virtual Memory: 89.97 MB used, 89.97 MB peak
+[2020.12.16-00.47.34:313][  0]LogMemory: Physical Memory: 4948.01 MB used,  11366.21 MB free, 16314.21 MB total
+[2020.12.16-00.47.34:313][  0]LogMemory: Virtual Memory: 4638.36 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.12.16-00.47.34:345][  0]LogInit: Using OS detected language (en-US).
+[2020.12.16-00.47.34:345][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.16-00.47.34:345][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.16-00.47.34:613][  0]LogStreaming: Display: Took  0.268s to InitEngineTextLocalization.
+[2020.12.16-00.47.34:613][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.16-00.47.34:633][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.16-00.47.34:633][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.16-00.47.34:870][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.12.16-00.47.34:870][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.16-00.47.34:918][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2020.12.16-00.47.34:918][  0]LogD3D11RHI:       8010/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.16-00.47.34:920][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.16-00.47.34:920][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.16-00.47.34:920][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.16-00.47.34:924][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.16-00.47.34:924][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.16-00.47.34:924][  0]LogWindows: EnumDisplayDevices:
+[2020.12.16-00.47.34:924][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:1)
+[2020.12.16-00.47.34:924][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2020.12.16-00.47.34:925][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.12.16-00.47.34:925][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.12.16-00.47.34:925][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.16-00.47.34:925][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2020.12.16-00.47.34:925][  0]LogD3D11RHI:   Driver Version: 456.55 (internal:27.21.14.5655, unified:456.55)
+[2020.12.16-00.47.34:925][  0]LogD3D11RHI:      Driver Date: 9-24-2020
+[2020.12.16-00.47.34:925][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.12.16-00.47.34:955][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.16-00.47.34:976][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.16-00.47.34:977][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2020.12.16-00.47.35:189][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.12.16-00.47.35:199][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.12.16-00.47.35:208][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.12.16-00.47.35:218][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.12.16-00.47.35:228][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.12.16-00.47.35:238][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.12.16-00.47.35:247][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.12.16-00.47.35:257][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.12.16-00.47.35:261][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.16-00.47.35:319][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.12.16-00.47.35:372][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.12.16-00.47.35:372][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.12.16-00.47.35:399][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.12.16-00.47.35:399][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.12.16-00.47.35:409][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.12.16-00.47.35:419][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.12.16-00.47.35:429][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.12.16-00.47.35:440][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.12.16-00.47.35:474][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.12.16-00.47.35:474][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.12.16-00.47.35:474][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.16-00.47.35:508][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Intermediate/Shaders/WorkingDirectory/10600/).
+[2020.12.16-00.47.35:508][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alec/AppData/Local/Temp/UnrealShaderWorkingDir/4AE04F1A4A01A69C2F28109F2288E468/'.
+[2020.12.16-00.47.35:509][  0]LogXGEController: Cleaning working directory: C:/Users/Alec/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.16-00.47.35:509][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.16-00.47.35:509][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.16-00.47.35:509][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.16-00.47.35:906][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.16-00.47.35:945][  0]LogDerivedDataCache: Loaded boot cache 0.04s 74MB C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.12.16-00.47.35:945][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.12.16-00.47.35:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.16-00.47.35:945][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.16-00.47.35:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.16-00.47.35:945][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.16-00.47.35:957][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.16-00.47.35:957][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.16-00.47.35:957][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.16-00.47.35:968][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.16-00.47.35:968][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.16-00.47.35:968][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.16-00.47.35:984][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.16-00.47.35:985][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.16-00.47.35:986][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.16-00.47.36:061][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2020.12.16-00.47.36:291][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.16-00.47.36:339][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.12.16-00.47.36:341][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.12.16-00.47.36:341][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.16-00.47.36:341][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.16-00.47.36:341][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.12.16-00.47.36:411][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2020.12.16-00.47.36:827][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.085105 seconds
+[2020.12.16-00.47.36:832][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.12.16-00.47.36:832][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.12.16-00.47.36:832][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.16-00.47.37:399][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2020.12.16-00.47.37:400][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:400][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:425][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2020.12.16-00.47.37:426][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:426][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:428][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2020.12.16-00.47.37:428][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:428][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:431][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2020.12.16-00.47.37:431][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:431][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:433][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2020.12.16-00.47.37:434][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:434][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:436][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2020.12.16-00.47.37:436][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:436][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:455][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2020.12.16-00.47.37:455][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:455][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:458][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2020.12.16-00.47.37:458][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:458][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:461][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2020.12.16-00.47.37:461][  0]LogMaterial: Warning: D:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.16-00.47.37:461][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2020.12.16-00.47.37:506][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.16-00.47.37:518][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.16-00.47.38:100][  0]LogSteamAudio: FSteamAudioModule Startup
+[2020.12.16-00.47.38:100][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2020.12.16-00.47.38:103][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2020.12.16-00.47.38:103][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2020.12.16-00.47.38:103][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2020.12.16-00.47.38:103][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2020.12.16-00.47.38:104][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2020.12.16-00.47.38:132][  0]SourceControl: Source control is disabled
+[2020.12.16-00.47.38:132][  0]SourceControl: Source control is disabled
+[2020.12.16-00.47.38:133][  0]SourceControl: Source control is disabled
+[2020.12.16-00.47.38:134][  0]SourceControl: Source control is disabled
+[2020.12.16-00.47.38:279][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.16-00.47.38:355][  0]LogOcInput: OculusInput pre-init called
+[2020.12.16-00.47.38:478][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.12.16-00.47.38:478][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.12.16-00.47.38:478][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.12.16-00.47.38:478][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.12.16-00.47.38:478][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.12.16-00.47.38:478][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2020.12.16-00.47.38:479][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.12.16-00.47.38:479][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.12.16-00.47.38:479][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.12.16-00.47.38:479][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.12.16-00.47.38:479][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.12.16-00.47.38:480][  0]LogEngine: Initializing Engine...
+[2020.12.16-00.47.38:533][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.12.16-00.47.38:534][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.12.16-00.47.38:534][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.12.16-00.47.38:534][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.12.16-00.47.38:534][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.12.16-00.47.38:709][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.16-00.47.38:716][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.16-00.47.38:746][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.16-00.47.38:788][  0]LogInit: FAudioDevice initialized.
+[2020.12.16-00.47.38:788][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.16-00.47.38:927][  0]LogDerivedDataCache: Saved boot cache 0.14s 74MB C:/Users/Alec/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.12.16-00.47.38:934][  0]LogInit: Texture streaming: Enabled
+[2020.12.16-00.47.38:944][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.16-00.47.38:955][  0]LogInit: Transaction tracking system initialized
+[2020.12.16-00.47.38:968][  0]BlueprintLog: New page: Editor Load
+[2020.12.16-00.47.39:009][  0]LocalizationService: Localization service is disabled
+[2020.12.16-00.47.39:362][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/' took 0.02s
+[2020.12.16-00.47.39:362][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.16-00.47.39:362][  0]LogCook: Display: Mobile HDR setting 0
+[2020.12.16-00.47.39:362][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.12.16-00.47.39:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.12.16-00.47.39:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.12.16-00.47.39:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.12.16-00.47.39:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.12.16-00.47.39:428][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2020.12.16-00.47.39:497][  0]CustomMapToolsLog: Visiting C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809
+[2020.12.16-00.47.39:497][  0]CustomMapToolsLog: Loaded UGC ID:2286579809
+[2020.12.16-00.47.39:497][  0]CustomMapToolsLog: Visiting C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809
+[2020.12.16-00.47.39:530][  0]SourceControl: Source control is disabled
+[2020.12.16-00.47.39:530][  0]Cmd: MAP LOAD FILE="C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/ModExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.16-00.47.39:530][  0]LightingResults: New page: Lighting Build
+[2020.12.16-00.47.39:532][  0]MapCheck: New page: Map Check
+[2020.12.16-00.47.39:532][  0]LightingResults: New page: Lighting Build
+[2020.12.16-00.47.39:584][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:584][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.12.16-00.47.39:584][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_HandProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:584][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:584][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.12.16-00.47.39:584][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_HandProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.16-00.47.39:585][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.16-00.47.39:585][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.16-00.47.39:585][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:585][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by Default__BP_HandProxyExample_C
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Proxies/BP_PlayerProxyExample.uasset.
+[2020.12.16-00.47.39:585][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by Default__BP_HandProxyExample_C
+[2020.12.16-00.47.39:585][  0]LoadErrors: Error: /CustomMapTools/Examples/Proxies/BP_PlayerProxyExample : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:585][  0]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer BP_HandProxyExample_C /CustomMapTools/Examples/Proxies/BP_HandProxyExample.Default__BP_HandProxyExample_C because its class does not exist
+[2020.12.16-00.47.39:675][  0]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon'
+[2020.12.16-00.47.39:675][  0]LogLinker: Warning: Can't find file for asset '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/Guns/AK/Gun_AK12.uasset.
+[2020.12.16-00.47.39:675][  0]LoadErrors: Error: /Game/Guns/AK/Gun_AK12 : Can't find file for asset. /Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon
+[2020.12.16-00.47.39:696][  0]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon'
+[2020.12.16-00.47.39:696][  0]LogLinker: Warning: Can't find file for asset '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/Guns/AK/Gun_AK12.uasset.
+[2020.12.16-00.47.39:696][  0]LoadErrors: Error: /Game/Guns/AK/Gun_AK12 : Can't find file for asset. /Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon
+[2020.12.16-00.47.39:697][  0]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon'
+[2020.12.16-00.47.39:698][  0]LogLinker: Warning: Can't find file for asset '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded.uasset.
+[2020.12.16-00.47.39:698][  0]LoadErrors: Error: /Game/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded : Can't find file for asset. /Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon
+[2020.12.16-00.47.39:698][  0]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon'
+[2020.12.16-00.47.39:698][  0]LogLinker: Warning: Can't find file for asset '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded.uasset.
+[2020.12.16-00.47.39:698][  0]LoadErrors: Error: /Game/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded : Can't find file for asset. /Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon
+[2020.12.16-00.47.39:698][  0]LogLinker: Warning: Can't find file '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon'
+[2020.12.16-00.47.39:698][  0]LoadErrors: Failed to load /Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon.hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon Referenced by Default__Gun_AK12_C
+[2020.12.16-00.47.39:698][  0]LogLinker: Warning: Can't find file for asset '/Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded.uasset.
+[2020.12.16-00.47.39:698][  0]LoadErrors: Failed to load /Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon.hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon Referenced by Default__Gun_AK12_C
+[2020.12.16-00.47.39:698][  0]LoadErrors: Error: /Game/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded : Can't find file for asset. /Game/CustomMaps/UGC1833966666/Hands/hand1_Anim_SK_Hand_NT_ao_hand_wpn_ak47_hand_Weapon
+[2020.12.16-00.47.39:766][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:766][  0]LoadErrors: Failed to load /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.16-00.47.39:766][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.16-00.47.39:766][  0]LoadErrors: Failed to load /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.16-00.47.39:766][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:766][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:766][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.16-00.47.39:766][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.16-00.47.39:766][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.12.16-00.47.39:766][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:766][  0]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2020.12.16-00.47.39:771][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.16-00.47.39:771][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.16-00.47.39:771][  0]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body
+[2020.12.16-00.47.39:771][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.16-00.47.39:772][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.16-00.47.39:772][  0]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo
+[2020.12.16-00.47.39:773][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.16-00.47.39:773][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.16-00.47.39:773][  0]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body
+[2020.12.16-00.47.39:774][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.16-00.47.39:774][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.12.16-00.47.39:774][  0]LoadErrors: Error: /CustomMapTools/Mannequin/Character/Mesh/SK_Mannequin : Can't find file for asset. /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo
+[2020.12.16-00.47.39:780][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:780][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.16-00.47.39:780][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:782][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:782][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.12.16-00.47.39:782][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/S_FobInfo : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:839][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:839][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.12.16-00.47.39:839][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/ModItem_FOB : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:841][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.12.16-00.47.39:841][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.12.16-00.47.39:841][  0]LoadErrors: Error: /CustomMapTools/Examples/Items/FOB/ModItem_FOB : Can't find file for asset. /Script/UmbraComputation
+[2020.12.16-00.47.39:950][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.12.16-00.47.39:950][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2020.12.16-00.47.39:950][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2020.12.16-00.47.39:950][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2020.12.16-00.47.39:950][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.12.16-00.47.39:950][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2020.12.16-00.47.39:950][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2020.12.16-00.47.39:950][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2020.12.16-00.47.40:189][  0]LogAIModule: Creating AISystem for world ModExampleMap
+[2020.12.16-00.47.40:194][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.16-00.47.40:216][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.16-00.47.40:217][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.12.16-00.47.40:217][  0]LogFileHelpers: Loading map 'ModExampleMap' took 0.686
+[2020.12.16-00.47.40:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-00.47.40:303][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-00.47.40:308][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-00.47.40:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.16-00.47.40:317][  0]LogCollectionManager: Loaded 0 collections in 0.000640 seconds
+[2020.12.16-00.47.40:331][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Collections/' took 0.01s
+[2020.12.16-00.47.40:331][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/Developers/Alec/Collections/' took 0.00s
+[2020.12.16-00.47.40:331][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/Collections/' took 0.00s
+[2020.12.16-00.47.40:331][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.12.16-00.47.40:338][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2705 classes and 639 folders.
+[2020.12.16-00.47.40:343][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.16-00.47.40:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.16-00.47.40:383][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.16-00.47.40:388][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.12.16-00.47.40:400][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.16-00.47.40:401][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.16-00.47.40:404][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.16-00.47.40:458][  0]LogRenderer: Reallocating scene render targets to support 1172x584 Format 9 NumSamples 4 (Frame:1).
+[2020.12.16-00.47.40:480][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.16-00.47.40:555][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.16-00.47.40:555][  0]LogLoad: (Engine Initialization) Total time: 7.70 seconds
+[2020.12.16-00.47.40:555][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.16-00.47.40:696][  0]LogContentStreaming: Texture pool size now 2500 MB
+[2020.12.16-00.47.40:699][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.16-00.47.40:708][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.16-00.47.40:777][  0]LogRenderer: Reallocating scene render targets to support 1172x604 Format 9 NumSamples 4 (Frame:3).
+[2020.12.16-00.47.41:015][  4]LogAssetRegistry: Asset discovery search completed in 4.9768 seconds
+[2020.12.16-00.47.41:016][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.12.16-00.47.41:016][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2020.12.16-00.48.10:849][ 93]LogSlate: Window 'Message Log' being destroyed
+[2020.12.16-00.48.10:852][ 93]LogSlate: Window 'Message Log' being destroyed
+[2020.12.16-00.48.12:722][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.48.13:340][386]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2286579809/Magazine_BaseModded.Magazine_BaseModded
+[2020.12.16-00.48.13:650][386]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2020.12.16-00.48.14:228][386]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.16-00.48.15:519][529]LogRenderer: Reallocating scene render targets to support 1380x696 Format 9 NumSamples 4 (Frame:1).
+[2020.12.16-00.48.17:731][792]LogSlate: Window 'Magazine_BaseModded' being destroyed
+[2020.12.16-00.48.17:735][792]LogSlate: Window 'Magazine_BaseModded' being destroyed
+[2020.12.16-00.48.19:176][958]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2286579809/Magazine_BaseModded.Magazine_BaseModded
+[2020.12.16-00.48.25:744][638]BlueprintLog: New page: Compile Magazine_BaseModded
+[2020.12.16-00.48.26:239][673]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Magazine_BaseModdedD117FDDC40041055FD5211A3CB092C0C.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Magazine_BaseModded.uasset'
+[2020.12.16-00.48.26:570][709]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.16-00.48.37:947][ 71]LogSlate: Window 'Magazine_BaseModded' being destroyed
+[2020.12.16-00.48.37:951][ 71]LogSlate: Window 'Magazine_BaseModded' being destroyed
+[2020.12.16-00.48.41:430][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.48.41:599][491]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded
+[2020.12.16-00.48.41:910][491]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.48.41:910][491]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.48.41:910][491]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.48.44:230][731]LogSlate: Window 'Gun_Base_Rife_Moded' being destroyed
+[2020.12.16-00.48.44:234][731]LogSlate: Window 'Gun_Base_Rife_Moded' being destroyed
+[2020.12.16-00.48.55:976][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.49.21:059][884]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded
+[2020.12.16-00.49.21:280][884]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.49.21:280][884]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.49.21:280][884]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.49.25:657][377]LogSlate: Window 'Gun_Base_Rife_Moded' being destroyed
+[2020.12.16-00.49.25:661][377]LogSlate: Window 'Gun_Base_Rife_Moded' being destroyed
+[2020.12.16-00.50.04:038][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.50.04:185][891]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded
+[2020.12.16-00.50.04:409][891]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.04:410][891]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.04:410][891]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:358][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:358][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:359][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:359][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:360][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:360][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:360][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:360][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:360][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.05:360][981]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-00.50.07:856][276]LogSlate: Window 'Gun_Base_Rife_Moded' being destroyed
+[2020.12.16-00.50.07:861][276]LogSlate: Window 'Gun_Base_Rife_Moded' being destroyed
+[2020.12.16-00.50.25:141][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.50.56:046][621]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Alec\Desktop\fire1.wav)
+[2020.12.16-00.50.57:060][624]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave fire1...
+[2020.12.16-00.50.57:181][624]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 50030 while cooking SoundWave /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Sounds/fire1.fire1.
+[2020.12.16-00.51.03:927][393]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/fire1478D92C44DC5DEB27CA637ADFDEDF166.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Sounds/fire1.uasset'
+[2020.12.16-00.51.34:814][924]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Alec\Desktop\Sound\sfx\weapon\MACHINEGUNS\mg42\reload\mag_in.wav)
+[2020.12.16-00.51.34:814][924]Error: Currently, only 16 bit WAV files are supported (mag_in).
+[2020.12.16-00.51.37:518][924]LogSlate: Window 'Message' being destroyed
+[2020.12.16-00.51.37:522][924]LogAssetTools: Warning: Failed to import 'C:\Users\Alec\Desktop\Sound\sfx\weapon\MACHINEGUNS\mg42\reload\mag_in.wav'. Failed to create asset '/Game/CustomMaps/UGC2286579809/HaloAssaultRife/Sounds/mag_in'.
+Please see Output Log for details.
+[2020.12.16-00.52.05:758][483]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Alec\Desktop\mag_in.wav)
+[2020.12.16-00.52.06:753][486]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave mag_in...
+[2020.12.16-00.52.06:761][486]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 19456 while cooking SoundWave /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Sounds/mag_in.mag_in.
+[2020.12.16-00.52.08:587][701]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/mag_in4BC9F80D4C3C259665BD6CB03D52F637.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Sounds/mag_in.uasset'
+[2020.12.16-00.52.24:387][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.53.41:833][947]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{96ca5b35-247c-41dd-94cd-f0ea12562999} was removed. Shutting down audio device.
+[2020.12.16-00.53.41:833][947]LogInit: No audio devices found!
+[2020.12.16-00.53.42:394][949]LogInit: No audio devices found!
+[2020.12.16-00.53.58:863][998]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.16-00.54.00:871][  4]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.16-00.55.47:406][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.56.40:406][719]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton.HaloAssaultRife_Skeleton
+[2020.12.16-00.56.40:410][719]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.12.16-00.56.40:544][719]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-00.56.40:560][719]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.12.16-00.56.40:636][719]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.16-00.56.40:896][719]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.12.16-00.56.40:899][719]LogRenderer: Reallocating scene render targets to support 1380x888 Format 9 NumSamples 4 (Frame:1).
+[2020.12.16-00.56.42:405][898]LogSlate: Window 'HaloAssaultRife_Skeleton' being destroyed
+[2020.12.16-00.56.42:410][898]LogSlate: Window 'HaloAssaultRife_Skeleton' being destroyed
+[2020.12.16-00.56.46:800][412]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton.HaloAssaultRife_Skeleton
+[2020.12.16-00.56.46:804][412]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-00.56.46:828][412]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.16-00.56.57:690][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.57.13:381][517]Cmd: TRANSACTION UNDO
+[2020.12.16-00.57.13:381][517]LogEditorTransaction: Undo Translate Bone
+[2020.12.16-00.57.13:445][517]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-00.57.14:305][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.57.45:810][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.57.55:637][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.58.06:918][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.58.38:167][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.59.13:984][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.59.21:627][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.59.27:532][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.59.44:659][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-00.59.50:516][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.00.04:263][317]Cmd: TRANSACTION UNDO
+[2020.12.16-01.00.04:263][317]LogEditorTransaction: Undo Translate Socket
+[2020.12.16-01.00.04:326][317]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.00.04:815][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.00.20:282][129]Cmd: TRANSACTION UNDO
+[2020.12.16-01.00.20:283][129]LogEditorTransaction: Undo Translate Socket
+[2020.12.16-01.00.20:348][129]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.00.24:533][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.00.24:643][622]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_SkeletonAE4A807A4E9D969DEF571D90891A6299.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton.uasset'
+[2020.12.16-01.00.26:767][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.00.26:824][864]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.00.26:856][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.00.26:890][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.16-01.00.28:189][971]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife3BAB89BF4DADE63676F8078CB518260D.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.00.30:588][251]LogSlate: Window 'HaloAssaultRife' being destroyed
+[2020.12.16-01.00.30:591][251]LogSlate: Window 'HaloAssaultRife' being destroyed
+[2020.12.16-01.00.34:030][635]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_PhysicsAsset.HaloAssaultRife_PhysicsAsset
+[2020.12.16-01.00.34:072][635]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2020.12.16-01.00.34:078][635]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.01.06:823][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.16-01.01.20:458][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.01.53:389][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.01.53:513][848]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_PhysicsAssetD3BCA92943A8FB11B5CB79905611080E.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_PhysicsAsset.uasset'
+[2020.12.16-01.01.54:721][991]LogSlate: Window 'HaloAssaultRife_PhysicsAsset' being destroyed
+[2020.12.16-01.01.54:726][991]LogSlate: Window 'HaloAssaultRife_PhysicsAsset' being destroyed
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.SKEL_Gun_HaloRifle_C' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle_C' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:427][681]LogMetaData: Removing '/Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/CustomMaps/UGC2286579809/Gun_HaloRife.PackageMetaData'
+[2020.12.16-01.02.42:456][681]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle57D6A6224101C1679199FF9778630B6E.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.02.44:164][864]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2286579809/Gun_HaloRifle.Gun_HaloRifle
+[2020.12.16-01.02.44:381][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:381][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:381][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:395][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:396][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:396][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:396][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:397][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:397][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:397][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:397][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:397][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.44:397][864]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_HaloRifle_C_0)
+[2020.12.16-01.02.51:312][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.03.08:255][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.03.20:378][121]BlueprintLog: New page: Compile Gun_HaloRifle
+[2020.12.16-01.03.20:926][162]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle8FA14F774CDD8D136C9D4784EA7E4221.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.03.24:093][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded
+[2020.12.16-01.03.24:326][539]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-01.03.24:326][539]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-01.03.24:326][539]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-01.03.44:962][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.03.56:854][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.04.02:435][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.04.37:516][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.04.40:150][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.05.02:027][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.05.21:175][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.05.24:307][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.05.51:860][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.05.55:043][ 19]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.05.55:048][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.05.55:070][ 19]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.16-01.06.08:510][544]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.08:567][544]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.09:596][655]LogEditorFactories: Performing atomic reimport of [C:/Users/Alec/Desktop/HaloAssaultRife.fbx]
+[2020.12.16-01.06.09:651][655]LogFbx: Loading FBX Scene from C:/Users/Alec/Desktop/HaloAssaultRife.fbx
+[2020.12.16-01.06.09:668][655]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.16-01.06.09:671][655]LogFbx: =================================================
+[2020.12.16-01.06.09:671][655]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.09:671][655]LogFbx: 	Total Deformer Count 1195580032.
+[2020.12.16-01.06.09:671][655]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.09:671][655]LogFbx: =================================================
+[2020.12.16-01.06.09:671][655]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.09:671][655]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.09:671][655]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.09:672][655]LogFbx: =================================================
+[2020.12.16-01.06.09:672][655]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.09:672][655]LogFbx: 	Total Deformer Count 1195580032.
+[2020.12.16-01.06.09:672][655]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.09:672][655]LogFbx: =================================================
+[2020.12.16-01.06.09:672][655]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.09:672][655]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.09:672][655]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.09:672][655]LogFbx: =================================================
+[2020.12.16-01.06.09:672][655]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.09:672][655]LogFbx: 	Total Deformer Count 1195581952.
+[2020.12.16-01.06.09:672][655]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.09:672][655]LogFbx: =================================================
+[2020.12.16-01.06.09:672][655]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.09:672][655]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.09:672][655]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.09:673][655]LogFbx: Valid bind pose for Pose (HaloAssaultRife) - HaloAssaultRife
+[2020.12.16-01.06.09:704][655]LogFbx: Warning: Bones digested - 7  Depth of hierarchy - 3
+[2020.12.16-01.06.09:940][655]LogSkeletalMesh: Section 0: 3244 vertices, 3 active bones
+[2020.12.16-01.06.09:940][655]LogSkeletalMesh: Section 1: 2913 vertices, 1 active bones
+[2020.12.16-01.06.09:940][655]LogSkeletalMesh: Section 2: 1469 vertices, 1 active bones
+[2020.12.16-01.06.09:940][655]LogSkeletalMesh: Section 3: 1634 vertices, 1 active bones
+[2020.12.16-01.06.09:940][655]LogSkeletalMesh: Section 4: 12 vertices, 1 active bones
+[2020.12.16-01.06.09:944][655]LogSkeletalMesh: Section 0: Material=0, 4657 triangles
+[2020.12.16-01.06.09:944][655]LogSkeletalMesh: Section 1: Material=1, 5012 triangles
+[2020.12.16-01.06.09:944][655]LogSkeletalMesh: Section 2: Material=2, 2578 triangles
+[2020.12.16-01.06.09:944][655]LogSkeletalMesh: Section 3: Material=3, 2176 triangles
+[2020.12.16-01.06.09:944][655]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2020.12.16-01.06.09:952][655]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.10:325][655]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.10:329][655]LogEditorFactories: -- imported successfully
+[2020.12.16-01.06.10:332][655]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.16-01.06.10:333][655]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.10:705][655]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.13:094][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.13:460][965]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.13:826][965]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.13:986][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.15:129][118]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.15:498][118]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.17:951][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.18:918][518]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.19:287][518]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.20:824][696]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife5137AFA244277435B401249C7ABE1864.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.06.21:842][816]LogEditorFactories: Performing atomic reimport of [C:/Users/Alec/Desktop/HaloAssaultRife.fbx]
+[2020.12.16-01.06.21:862][816]LogFbx: Loading FBX Scene from C:/Users/Alec/Desktop/HaloAssaultRife.fbx
+[2020.12.16-01.06.21:873][816]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.16-01.06.21:873][816]LogFbx: =================================================
+[2020.12.16-01.06.21:873][816]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.21:873][816]LogFbx: 	Total Deformer Count 1198732640.
+[2020.12.16-01.06.21:873][816]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.21:873][816]LogFbx: =================================================
+[2020.12.16-01.06.21:874][816]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.21:874][816]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.21:874][816]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.21:874][816]LogFbx: =================================================
+[2020.12.16-01.06.21:874][816]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.21:874][816]LogFbx: 	Total Deformer Count 1198732640.
+[2020.12.16-01.06.21:874][816]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.21:874][816]LogFbx: =================================================
+[2020.12.16-01.06.21:874][816]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.21:874][816]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.21:874][816]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.21:874][816]LogFbx: =================================================
+[2020.12.16-01.06.21:874][816]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.21:874][816]LogFbx: 	Total Deformer Count 1198732800.
+[2020.12.16-01.06.21:874][816]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.21:874][816]LogFbx: =================================================
+[2020.12.16-01.06.21:874][816]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.21:874][816]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.21:874][816]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.21:874][816]LogFbx: Valid bind pose for Pose (HaloAssaultRife) - HaloAssaultRife
+[2020.12.16-01.06.21:895][816]LogFbx: Warning: Bones digested - 7  Depth of hierarchy - 3
+[2020.12.16-01.06.22:122][816]LogSkeletalMesh: Section 0: 3244 vertices, 3 active bones
+[2020.12.16-01.06.22:123][816]LogSkeletalMesh: Section 1: 2913 vertices, 1 active bones
+[2020.12.16-01.06.22:123][816]LogSkeletalMesh: Section 2: 1469 vertices, 1 active bones
+[2020.12.16-01.06.22:123][816]LogSkeletalMesh: Section 3: 1634 vertices, 1 active bones
+[2020.12.16-01.06.22:123][816]LogSkeletalMesh: Section 4: 12 vertices, 1 active bones
+[2020.12.16-01.06.22:126][816]LogSkeletalMesh: Section 0: Material=0, 4657 triangles
+[2020.12.16-01.06.22:126][816]LogSkeletalMesh: Section 1: Material=1, 5012 triangles
+[2020.12.16-01.06.22:126][816]LogSkeletalMesh: Section 2: Material=2, 2578 triangles
+[2020.12.16-01.06.22:126][816]LogSkeletalMesh: Section 3: Material=3, 2176 triangles
+[2020.12.16-01.06.22:126][816]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2020.12.16-01.06.22:126][816]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.22:975][816]LogSkeletalMesh: Built Skeletal Mesh [0.85s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.22:978][816]LogEditorFactories: -- imported successfully
+[2020.12.16-01.06.22:980][816]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.16-01.06.22:981][816]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.23:829][816]LogSkeletalMesh: Built Skeletal Mesh [0.85s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.26:663][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.27:033][185]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.27:880][185]LogSkeletalMesh: Built Skeletal Mesh [0.85s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.28:225][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.28:300][229]LogEditorFactories: Performing atomic reimport of [C:/Users/Alec/Desktop/HaloAssaultRife.fbx]
+[2020.12.16-01.06.28:318][229]LogFbx: Loading FBX Scene from C:/Users/Alec/Desktop/HaloAssaultRife.fbx
+[2020.12.16-01.06.28:330][229]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.16-01.06.28:330][229]LogFbx: =================================================
+[2020.12.16-01.06.28:330][229]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.28:330][229]LogFbx: 	Total Deformer Count 1198719440.
+[2020.12.16-01.06.28:330][229]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.28:330][229]LogFbx: =================================================
+[2020.12.16-01.06.28:330][229]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.28:330][229]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.28:330][229]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.28:330][229]LogFbx: =================================================
+[2020.12.16-01.06.28:330][229]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.28:330][229]LogFbx: 	Total Deformer Count 1198719440.
+[2020.12.16-01.06.28:330][229]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.28:330][229]LogFbx: =================================================
+[2020.12.16-01.06.28:330][229]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.28:330][229]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.28:330][229]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.28:330][229]LogFbx: =================================================
+[2020.12.16-01.06.28:330][229]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.28:330][229]LogFbx: 	Total Deformer Count 1198728160.
+[2020.12.16-01.06.28:330][229]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.28:330][229]LogFbx: =================================================
+[2020.12.16-01.06.28:330][229]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.28:330][229]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.28:330][229]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.28:331][229]LogFbx: Valid bind pose for Pose (HaloAssaultRife) - HaloAssaultRife
+[2020.12.16-01.06.28:352][229]LogFbx: Warning: Bones digested - 7  Depth of hierarchy - 3
+[2020.12.16-01.06.28:578][229]LogSkeletalMesh: Section 0: 3244 vertices, 3 active bones
+[2020.12.16-01.06.28:578][229]LogSkeletalMesh: Section 1: 2913 vertices, 1 active bones
+[2020.12.16-01.06.28:578][229]LogSkeletalMesh: Section 2: 1469 vertices, 1 active bones
+[2020.12.16-01.06.28:578][229]LogSkeletalMesh: Section 3: 1634 vertices, 1 active bones
+[2020.12.16-01.06.28:578][229]LogSkeletalMesh: Section 4: 12 vertices, 1 active bones
+[2020.12.16-01.06.28:581][229]LogSkeletalMesh: Section 0: Material=0, 4657 triangles
+[2020.12.16-01.06.28:581][229]LogSkeletalMesh: Section 1: Material=1, 5012 triangles
+[2020.12.16-01.06.28:581][229]LogSkeletalMesh: Section 2: Material=2, 2578 triangles
+[2020.12.16-01.06.28:581][229]LogSkeletalMesh: Section 3: Material=3, 2176 triangles
+[2020.12.16-01.06.28:581][229]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2020.12.16-01.06.28:582][229]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.28:597][229]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.28:599][229]LogEditorFactories: -- imported successfully
+[2020.12.16-01.06.28:602][229]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.16-01.06.28:603][229]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.28:617][229]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.29:556][316]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife2088AAD24949540B2DEFE392E2A9244A.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.06.31:770][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.33:613][780]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.33:627][780]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.34:468][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.34:595][888]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRifeA5F4EE80427661B8E73C719C860A7CEB.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.06.35:082][944]LogEditorFactories: Performing atomic reimport of [C:/Users/Alec/Desktop/HaloAssaultRife.fbx]
+[2020.12.16-01.06.35:100][944]LogFbx: Loading FBX Scene from C:/Users/Alec/Desktop/HaloAssaultRife.fbx
+[2020.12.16-01.06.35:111][944]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.16-01.06.35:112][944]LogFbx: =================================================
+[2020.12.16-01.06.35:112][944]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.35:112][944]LogFbx: 	Total Deformer Count 1198734560.
+[2020.12.16-01.06.35:112][944]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.35:112][944]LogFbx: =================================================
+[2020.12.16-01.06.35:112][944]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.35:112][944]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.35:112][944]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.35:112][944]LogFbx: =================================================
+[2020.12.16-01.06.35:112][944]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.35:112][944]LogFbx: 	Total Deformer Count 1198734560.
+[2020.12.16-01.06.35:112][944]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.35:112][944]LogFbx: =================================================
+[2020.12.16-01.06.35:112][944]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.35:112][944]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.35:112][944]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.35:112][944]LogFbx: =================================================
+[2020.12.16-01.06.35:112][944]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.35:112][944]LogFbx: 	Total Deformer Count 1198729440.
+[2020.12.16-01.06.35:112][944]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.35:112][944]LogFbx: =================================================
+[2020.12.16-01.06.35:112][944]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.35:112][944]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.35:112][944]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.35:112][944]LogFbx: Valid bind pose for Pose (HaloAssaultRife) - HaloAssaultRife
+[2020.12.16-01.06.35:133][944]LogFbx: Warning: Bones digested - 7  Depth of hierarchy - 3
+[2020.12.16-01.06.35:355][944]LogSkeletalMesh: Section 0: 3244 vertices, 3 active bones
+[2020.12.16-01.06.35:356][944]LogSkeletalMesh: Section 1: 2913 vertices, 1 active bones
+[2020.12.16-01.06.35:356][944]LogSkeletalMesh: Section 2: 1469 vertices, 1 active bones
+[2020.12.16-01.06.35:356][944]LogSkeletalMesh: Section 3: 1634 vertices, 1 active bones
+[2020.12.16-01.06.35:356][944]LogSkeletalMesh: Section 4: 12 vertices, 1 active bones
+[2020.12.16-01.06.35:359][944]LogSkeletalMesh: Section 0: Material=0, 4657 triangles
+[2020.12.16-01.06.35:359][944]LogSkeletalMesh: Section 1: Material=1, 5012 triangles
+[2020.12.16-01.06.35:359][944]LogSkeletalMesh: Section 2: Material=2, 2578 triangles
+[2020.12.16-01.06.35:359][944]LogSkeletalMesh: Section 3: Material=3, 2176 triangles
+[2020.12.16-01.06.35:359][944]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2020.12.16-01.06.35:360][944]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.35:374][944]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.35:377][944]LogEditorFactories: -- imported successfully
+[2020.12.16-01.06.35:379][944]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.16-01.06.35:380][944]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.35:394][944]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.37:817][203]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife4EE0D23B4474CFE5696A2C90BA6CA42D.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.06.45:612][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.49:130][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.49:544][579]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.49:558][579]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.50:360][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.06.50:478][682]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRifeA8E937A64C69778AE6A51583FE541D5B.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.06.51:118][757]LogEditorFactories: Performing atomic reimport of [C:/Users/Alec/Desktop/HaloAssaultRife.fbx]
+[2020.12.16-01.06.51:134][757]LogFbx: Loading FBX Scene from C:/Users/Alec/Desktop/HaloAssaultRife.fbx
+[2020.12.16-01.06.51:146][757]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.16-01.06.51:146][757]LogFbx: =================================================
+[2020.12.16-01.06.51:146][757]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.51:146][757]LogFbx: 	Total Deformer Count 1198731360.
+[2020.12.16-01.06.51:146][757]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.51:146][757]LogFbx: =================================================
+[2020.12.16-01.06.51:146][757]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.51:146][757]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.51:146][757]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.51:146][757]LogFbx: =================================================
+[2020.12.16-01.06.51:146][757]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.51:146][757]LogFbx: 	Total Deformer Count 1198731360.
+[2020.12.16-01.06.51:146][757]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.51:146][757]LogFbx: =================================================
+[2020.12.16-01.06.51:146][757]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.51:146][757]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.51:146][757]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.51:146][757]LogFbx: =================================================
+[2020.12.16-01.06.51:146][757]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.06.51:146][757]LogFbx: 	Total Deformer Count 1198719280.
+[2020.12.16-01.06.51:146][757]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.06.51:146][757]LogFbx: =================================================
+[2020.12.16-01.06.51:146][757]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.06.51:146][757]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.06.51:146][757]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.06.51:146][757]LogFbx: Valid bind pose for Pose (HaloAssaultRife) - HaloAssaultRife
+[2020.12.16-01.06.51:168][757]LogFbx: Warning: Bones digested - 7  Depth of hierarchy - 3
+[2020.12.16-01.06.51:392][757]LogSkeletalMesh: Section 0: 3244 vertices, 3 active bones
+[2020.12.16-01.06.51:392][757]LogSkeletalMesh: Section 1: 2913 vertices, 1 active bones
+[2020.12.16-01.06.51:393][757]LogSkeletalMesh: Section 2: 1469 vertices, 1 active bones
+[2020.12.16-01.06.51:393][757]LogSkeletalMesh: Section 3: 1634 vertices, 1 active bones
+[2020.12.16-01.06.51:393][757]LogSkeletalMesh: Section 4: 12 vertices, 1 active bones
+[2020.12.16-01.06.51:395][757]LogSkeletalMesh: Section 0: Material=0, 4657 triangles
+[2020.12.16-01.06.51:395][757]LogSkeletalMesh: Section 1: Material=1, 5012 triangles
+[2020.12.16-01.06.51:395][757]LogSkeletalMesh: Section 2: Material=2, 2578 triangles
+[2020.12.16-01.06.51:395][757]LogSkeletalMesh: Section 3: Material=3, 2176 triangles
+[2020.12.16-01.06.51:396][757]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2020.12.16-01.06.51:396][757]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.51:411][757]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.51:413][757]LogEditorFactories: -- imported successfully
+[2020.12.16-01.06.51:416][757]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.16-01.06.51:416][757]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.06.51:430][757]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.06.57:632][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.07.01:016][885]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.07.01:030][885]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.07.02:021][998]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife5FCB27A041ADF1EE53A26FAC0DE76A15.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.07.02:740][ 82]LogEditorFactories: Performing atomic reimport of [C:/Users/Alec/Desktop/HaloAssaultRife.fbx]
+[2020.12.16-01.07.02:756][ 82]LogFbx: Loading FBX Scene from C:/Users/Alec/Desktop/HaloAssaultRife.fbx
+[2020.12.16-01.07.02:768][ 82]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.16-01.07.02:768][ 82]LogFbx: =================================================
+[2020.12.16-01.07.02:768][ 82]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.07.02:768][ 82]LogFbx: 	Total Deformer Count 1113015136.
+[2020.12.16-01.07.02:768][ 82]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.07.02:768][ 82]LogFbx: =================================================
+[2020.12.16-01.07.02:768][ 82]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.07.02:768][ 82]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.07.02:768][ 82]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.07.02:768][ 82]LogFbx: =================================================
+[2020.12.16-01.07.02:768][ 82]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.07.02:768][ 82]LogFbx: 	Total Deformer Count 1113015136.
+[2020.12.16-01.07.02:768][ 82]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.07.02:768][ 82]LogFbx: =================================================
+[2020.12.16-01.07.02:768][ 82]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.07.02:768][ 82]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.07.02:768][ 82]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.07.02:768][ 82]LogFbx: =================================================
+[2020.12.16-01.07.02:768][ 82]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.07.02:768][ 82]LogFbx: 	Total Deformer Count 1113027776.
+[2020.12.16-01.07.02:768][ 82]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.07.02:768][ 82]LogFbx: =================================================
+[2020.12.16-01.07.02:768][ 82]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.07.02:768][ 82]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.07.02:768][ 82]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.07.02:768][ 82]LogFbx: Valid bind pose for Pose (HaloAssaultRife) - HaloAssaultRife
+[2020.12.16-01.07.02:790][ 82]LogFbx: Warning: Bones digested - 7  Depth of hierarchy - 3
+[2020.12.16-01.07.03:012][ 82]LogSkeletalMesh: Section 0: 3244 vertices, 3 active bones
+[2020.12.16-01.07.03:012][ 82]LogSkeletalMesh: Section 1: 2913 vertices, 1 active bones
+[2020.12.16-01.07.03:012][ 82]LogSkeletalMesh: Section 2: 1469 vertices, 1 active bones
+[2020.12.16-01.07.03:012][ 82]LogSkeletalMesh: Section 3: 1634 vertices, 1 active bones
+[2020.12.16-01.07.03:012][ 82]LogSkeletalMesh: Section 4: 12 vertices, 1 active bones
+[2020.12.16-01.07.03:015][ 82]LogSkeletalMesh: Section 0: Material=0, 4657 triangles
+[2020.12.16-01.07.03:015][ 82]LogSkeletalMesh: Section 1: Material=1, 5012 triangles
+[2020.12.16-01.07.03:015][ 82]LogSkeletalMesh: Section 2: Material=2, 2578 triangles
+[2020.12.16-01.07.03:015][ 82]LogSkeletalMesh: Section 3: Material=3, 2176 triangles
+[2020.12.16-01.07.03:015][ 82]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2020.12.16-01.07.03:016][ 82]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.07.03:031][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.07.03:033][ 82]LogEditorFactories: -- imported successfully
+[2020.12.16-01.07.03:036][ 82]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.16-01.07.03:036][ 82]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.07.03:051][ 82]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.07.20:557][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.07.20:632][121]BlueprintLog: New page: Compile Gun_HaloRifle
+[2020.12.16-01.07.26:566][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.07.27:496][858]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifleC032166E479211ACFD585484DEA435A1.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.07.37:491][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.07.37:575][ 28]BlueprintLog: New page: Compile Gun_HaloRifle
+[2020.12.16-01.07.38:047][ 60]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle0FF4B5AB4FA81462281FDE9D0142A17E.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.07.54:672][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.07.58:343][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.08.06:593][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.08.06:668][408]BlueprintLog: New page: Compile Gun_HaloRifle
+[2020.12.16-01.08.07:154][439]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle2DEBE67945365D7724689F9FC1CFDE74.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.08.10:264][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.08.11:786][982]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRifeFB32F06C418ED772261DAF9224235D82.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.08.20:914][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.08.20:989][ 78]LogEditorFactories: Performing atomic reimport of [C:/Users/Alec/Desktop/HaloAssaultRife.fbx]
+[2020.12.16-01.08.21:005][ 78]LogFbx: Loading FBX Scene from C:/Users/Alec/Desktop/HaloAssaultRife.fbx
+[2020.12.16-01.08.21:017][ 78]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.16-01.08.21:017][ 78]LogFbx: =================================================
+[2020.12.16-01.08.21:017][ 78]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.08.21:018][ 78]LogFbx: 	Total Deformer Count -2000244080.
+[2020.12.16-01.08.21:018][ 78]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.08.21:018][ 78]LogFbx: =================================================
+[2020.12.16-01.08.21:018][ 78]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.08.21:018][ 78]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.08.21:018][ 78]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.08.21:018][ 78]LogFbx: =================================================
+[2020.12.16-01.08.21:018][ 78]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.08.21:018][ 78]LogFbx: 	Total Deformer Count -2000244080.
+[2020.12.16-01.08.21:018][ 78]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.08.21:018][ 78]LogFbx: =================================================
+[2020.12.16-01.08.21:018][ 78]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.08.21:018][ 78]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.08.21:018][ 78]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.08.21:018][ 78]LogFbx: =================================================
+[2020.12.16-01.08.21:018][ 78]LogFbx: Dumping Node START [HaloAssaultRife] 
+[2020.12.16-01.08.21:018][ 78]LogFbx: 	Total Deformer Count -2000248160.
+[2020.12.16-01.08.21:018][ 78]LogFbx: 		[Node 1]  (Type Skin).
+[2020.12.16-01.08.21:018][ 78]LogFbx: =================================================
+[2020.12.16-01.08.21:018][ 78]LogFbx: 	Attribute (HaloAssaultRife) Type (4).
+[2020.12.16-01.08.21:018][ 78]LogFbx: 		[Node Attribute Child 1] HaloAssaultRife (Type Mesh).
+[2020.12.16-01.08.21:018][ 78]LogFbx: Dumping Node END [HaloAssaultRife]
+[2020.12.16-01.08.21:018][ 78]LogFbx: Valid bind pose for Pose (HaloAssaultRife) - HaloAssaultRife
+[2020.12.16-01.08.21:038][ 78]LogFbx: Warning: Bones digested - 7  Depth of hierarchy - 3
+[2020.12.16-01.08.21:259][ 78]LogSkeletalMesh: Section 0: 3244 vertices, 3 active bones
+[2020.12.16-01.08.21:259][ 78]LogSkeletalMesh: Section 1: 2913 vertices, 1 active bones
+[2020.12.16-01.08.21:259][ 78]LogSkeletalMesh: Section 2: 1469 vertices, 1 active bones
+[2020.12.16-01.08.21:259][ 78]LogSkeletalMesh: Section 3: 1634 vertices, 1 active bones
+[2020.12.16-01.08.21:259][ 78]LogSkeletalMesh: Section 4: 12 vertices, 1 active bones
+[2020.12.16-01.08.21:262][ 78]LogSkeletalMesh: Section 0: Material=0, 4657 triangles
+[2020.12.16-01.08.21:262][ 78]LogSkeletalMesh: Section 1: Material=1, 5012 triangles
+[2020.12.16-01.08.21:262][ 78]LogSkeletalMesh: Section 2: Material=2, 2578 triangles
+[2020.12.16-01.08.21:262][ 78]LogSkeletalMesh: Section 3: Material=3, 2176 triangles
+[2020.12.16-01.08.21:262][ 78]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2020.12.16-01.08.21:263][ 78]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.08.21:277][ 78]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.08.21:279][ 78]LogEditorFactories: -- imported successfully
+[2020.12.16-01.08.21:282][ 78]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.16-01.08.21:282][ 78]LogSkeletalMesh: Building Skeletal Mesh HaloAssaultRife...
+[2020.12.16-01.08.21:296][ 78]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.HaloAssaultRife
+[2020.12.16-01.08.24:277][420]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife8B6CBF714BFD715791C17899ED6620E5.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife.uasset'
+[2020.12.16-01.08.55:740][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.09.05:453][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.09.11:401][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.09.17:217][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.09.27:934][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.09.28:009][800]BlueprintLog: New page: Compile Gun_HaloRifle
+[2020.12.16-01.09.28:797][844]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle72E5AA1A4EC0DDCCEC0E169ED3BEA4A0.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.09.34:288][495]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle8E91315C407E8FDB0D29A2ADC98F137A.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.09.39:802][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.09.39:886][161]BlueprintLog: New page: Compile Gun_HaloRifle
+[2020.12.16-01.09.40:516][211]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifleEBCBA8C442412D1FFEA7A1A74B0EBDB0.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.09.51:555][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.10.09:585][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.10.09:701][653]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifleB4B9C96B4130EC18CAE276AB960BF5F2.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.10.21:443][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.16-01.10.22:642][ 47]LogSlate: Window 'Save Asset As' being destroyed
+[2020.12.16-01.10.23:651][166]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2286579809/Gun_Base_Rife_Moded.Gun_Base_Rife_Moded
+[2020.12.16-01.10.23:878][166]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-01.10.23:878][166]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-01.10.23:878][166]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(Mesh) Actor(Gun_Base_Rife_Moded_C_0)
+[2020.12.16-01.10.28:118][537]LogSlate: Window 'Save Asset As' being destroyed
+[2020.12.16-01.10.32:104][733]LogSlate: Window 'Save Asset As' being destroyed
+[2020.12.16-01.10.50:843][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.05:877][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.14:530][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.19:426][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.26:071][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.33:769][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.37:801][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.46:087][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.53:548][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.11.53:640][390]BlueprintLog: New page: Compile Gun_HaloRifle
+[2020.12.16-01.11.54:338][446]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle64552ED544436A6523A248888D259C92.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.12.07:709][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.12.07:791][ 30]BlueprintLog: New page: Compile Gun_HaloRifle
+[2020.12.16-01.12.08:447][ 83]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/Gun_HaloRifle4B1E437748F2476B8DF6A5AC97A19B41.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/Gun_HaloRifle.uasset'
+[2020.12.16-01.12.09:160][167]LogSlate: Window 'Gun_Base_Rife_Moded' being destroyed
+[2020.12.16-01.12.09:164][167]LogSlate: Window 'Gun_Base_Rife_Moded' being destroyed
+[2020.12.16-01.12.09:323][167]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.16-01.12.23:328][830]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint1.HaloAssaultRife_Skeleton_AnimBlueprint1
+[2020.12.16-01.12.23:337][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.12.23:504][830]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.16-01.12.28:528][359]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint
+[2020.12.16-01.12.28:535][359]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.12.28:705][359]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.16-01.12.39:492][604]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.12.16-01.12.41:557][850]BlueprintLog: New page: Compile HaloAssaultRife_Skeleton_AnimBlueprint1
+[2020.12.16-01.12.41:988][882]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_Skeleton_AnimBlu015A2DCE4F831D47709C7AA88541F1F3.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint1.uasset'
+[2020.12.16-01.13.56:465][564]BlueprintLog: New page: Compile HaloAssaultRife_Skeleton_AnimBlueprint1
+[2020.12.16-01.13.56:987][605]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_Skeleton_AnimBluF7197799411442ACCB4B88AD50CFDD8A.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint1.uasset'
+[2020.12.16-01.14.12:440][991]LogSlate: Window 'HaloAssaultRife_Skeleton_AnimBlueprint' being destroyed
+[2020.12.16-01.14.12:443][991]LogSlate: Window 'HaloAssaultRife_Skeleton_AnimBlueprint' being destroyed
+[2020.12.16-01.14.14:984][237]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint.HaloAssaultRife_Skeleton_AnimBlueprint
+[2020.12.16-01.14.14:991][237]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.14.15:163][237]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.16-01.14.39:045][935]LogEditorTransaction: Undo Delete current selection
+[2020.12.16-01.14.39:181][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.14.39:183][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.16-01.15.55:297][743]BlueprintLog: New page: Compile HaloAssaultRife_Skeleton_AnimBlueprint1
+[2020.12.16-01.15.55:809][781]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_Skeleton_AnimBlu4E3C49184CF46B2E165B22B856AF92E7.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint1.uasset'
+[2020.12.16-01.16.00:874][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.16.05:132][866]BlueprintLog: New page: Compile HaloAssaultRife_Skeleton_AnimBlueprint1
+[2020.12.16-01.16.05:486][886]LogSavePackage: Moving 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Saved/HaloAssaultRife_Skeleton_AnimBluAC4A9058448D15228B7DD98B5597073D.tmp' to 'C:/Users/Alec/Desktop/Backup/GunBase/PavlovVR-ModKit-master/Content/CustomMaps/UGC2286579809/HaloAssaultRife/Meshes/HaloAssaultRife_Skeleton_AnimBlueprint1.uasset'
+[2020.12.16-01.16.13:178][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.16-01.16.17:461][308]BlueprintLog: New page: Compile HaloAssaultRife_Skeleton_AnimBlueprint1
+[2020.12.16-01.16.20:393][642]LogEditorTransaction: Undo Edit Trigger Ratio
+[2020.12.16-01.16.20:393][642]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.16-01.16.22:651][642]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.257 s
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: 
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: 
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: Stack: 
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee59485e8 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee92dfe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee930acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee92f140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee935b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee939f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee933726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee4881168 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffeeaf0206f UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffeeaf44c8e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee9bb6d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffee9ba4cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffeeaec694c UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffeeaf4697c UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ffeeaf39a36 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff1cebdaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff1ceb0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff1cec01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff1ceaca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff3be05c1d USER32.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff3be05612 USER32.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff1cec1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ff7bf8a5546 UE4Editor.exe!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ff7bf8b596c UE4Editor.exe!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ff7bf8b59ea UE4Editor.exe!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ff7bf8c48da UE4Editor.exe!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007ff7bf8c659a UE4Editor.exe!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff3bfa7c24 KERNEL32.DLL!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: [Callstack] 0x00007fff3d5cd4d1 ntdll.dll!UnknownFunction []
+[2020.12.16-01.16.22:657][642]LogOutputDevice: Error: 
+[2020.12.16-01.16.22:659][642]LogStats:                SubmitErrorReport -  0.000 s
